@@ -1,0 +1,722 @@
+{
+    "settings": {
+        "cache_ttl": 604800,
+        "match_tolerance": 0.05,
+        "use_hash_check": true,
+        "ads_hash_sample_size": 262144,
+        "fetch_timeout": 30,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "cache_scheme": "auto",
+        "cors_allow_origin": "*",
+        "cache_auto_clean": true,
+        "cache_clean_every_h": 24,
+        "cache_clean_unit": "h",
+        "cache_clean_types": [
+            "expired"
+        ],
+        "cache_clean_sites": [],
+        "cache_clean_days": 0,
+        "admin_path": "/admin",
+        "proxy_pool_enable": false,
+        "proxy_pool_api": "https://proxy.scdn.io/api/get_proxy.php",
+        "proxy_pool_protocol": "http",
+        "proxy_pool_count": 3,
+        "proxy_pool_country": "CN",
+        "proxy_pool_refresh_m": 30,
+        "proxy_pool_strategy": "round",
+        "proxy_pool_fail_max": 3,
+        "proxy_pool_manual": "",
+        "ip_access_enable": false
+    },
+    "sites": [
+        {
+            "id": "dytt",
+            "name": "电影天堂",
+            "parse_type": "both",
+            "url_prefix": "vip.dytt",
+            "url_regex": "",
+            "url_prefixes": [
+                "vip.dytt"
+            ],
+            "cache_subdir": "DYTT",
+            "fingerprint": [
+                5.567,
+                3.2,
+                5.367,
+                3.333,
+                1.6
+            ],
+            "fingerprints": [
+                [
+                    6.67,
+                    2.13,
+                    3.23,
+                    3.73
+                ],
+                [
+                    5.57,
+                    2.93,
+                    5.7,
+                    3.33,
+                    1.53
+                ]
+            ],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "sequence",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 1,
+            "remark": "vip.dytt 系列站点；标记学习:https://vip.dytt-tvs.com/20260902/35283_f365c0e4/index.m3u8；标记学习:https://vip.dytt-tvs.com/20260922/38127_fa5fbb4a/index.m3u8"
+        },
+        {
+            "id": "xg",
+            "name": "西瓜",
+            "parse_type": "both",
+            "url_prefix": "svip.xgplay",
+            "url_regex": "",
+            "url_prefixes": [
+                "svip.xgplay"
+            ],
+            "cache_subdir": "XG",
+            "fingerprint": [
+                4.6,
+                5.533,
+                0.233
+            ],
+            "fingerprints": [],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "sequence",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 2,
+            "remark": "svip.xgplay 系列站点"
+        },
+        {
+            "id": "lz",
+            "name": "量子",
+            "parse_type": "duration",
+            "url_prefix": "v.lzcdn28.com",
+            "url_regex": "lzcdn\\d*",
+            "url_prefixes": [
+                "v.lzcdn28.com",
+                "v.cdnlz21.com",
+                "vip.lz-cdn14.com",
+                "v.cdnlz22.com",
+                "v.lzcdn31.com",
+                "v.lzcdn27.com",
+                "v.cdnlz13.com",
+                "vip.lz-cdn12.com",
+                "vip.lz-cdn11.com",
+                "v.lzcdn23.com",
+                "v.cdnlz18.com",
+                "v.cdnlz14.com",
+                "v.cdnlz7.com",
+                "vip.lz-cdn13.com",
+                "vip1.lz-cdn5.com",
+                "v.lz15uu.com",
+                "v.cdnlz9.com",
+                "vip.lz-cdn9.com",
+                "vip.lzcdn10.com",
+                "v.lfthirtytwo.com",
+                "v.lzfile26.com",
+                "dow.dowlz15.com",
+                "svip.ryplay17.com",
+                "www.tvkuu.com",
+                "lzv34.com"
+            ],
+            "url_regexes": [
+                "lzcdn\\d*",
+                "cdnlz\\d*",
+                "lz-cdn\\d*",
+                "lz15uu\\d*",
+                "lfthirtytwo\\d*",
+                "lzfile\\d*",
+                "dowlz\\d*",
+                "v\\.cdnlz\\d+\\.com",
+                "v\\.lzcdn\\d+\\.com",
+                "vip\\.lz-cdn\\d+\\.com",
+                "vip1\\.lz-cdn\\d+\\.com",
+                "vip\\.lzcdn\\d+\\.com",
+                "ryplay\\d*",
+                "tvkuu\\d*",
+                "lzv\\d*",
+                "dow\\.dowlz\\d+\\.com"
+            ],
+            "cache_subdir": "LZ",
+            "fingerprint": [
+                4,
+                5.48,
+                2.68
+            ],
+            "fingerprints": [],
+            "ads_hashes": [
+                [
+                    {
+                        "sample": "4cfa313f77b06993",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "bec10ae986d5994d",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "baa4800fa1fd652e",
+                        "size": 262144
+                    }
+                ]
+            ],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "sequence",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 3,
+            "remark": "标记学习:https://svip.ryplay14.com/20260909/19101_00cfabea/index.m3u8"
+        },
+        {
+            "id": "fengbao",
+            "name": "暴风",
+            "parse_type": "duration",
+            "url_prefix": "fengbao12.com",
+            "url_regex": "fengbao\\d*",
+            "url_prefixes": [
+                "fengbao12.com",
+                "v.baofeng9.com",
+                "c1.rrcdnbf6.com",
+                "c1.ddbbffcdn.com",
+                "c1.rrcdnbf4.com",
+                "v.baofeng11.com",
+                "p.bvvvvvvvvv1f.com",
+                "s3.bfllvip.com",
+                "c1.rrcdnbf5.com",
+                "p.bvvvvvvv7f.com",
+                "p.b8bf.com",
+                "bfeng11.com",
+                "bfeng10.com"
+            ],
+            "url_regexes": [
+                "fengbao\\d*",
+                "baofeng\\d*",
+                "rrcdnbf\\d*",
+                "ddbbffcdn\\d*",
+                "bvvvvvvvvv1f\\d*",
+                "bfllvip\\d*",
+                "bvvvvvvv7f\\d*",
+                "b8bf\\d*",
+                "s\\d+\\.bfllvip\\.com",
+                "c\\d+\\.rrcdnbf\\d+\\.com",
+                "v\\.fengbao\\d+\\.com",
+                "v\\.baofeng\\d+\\.com",
+                "bfeng\\d*",
+                "c1\\.rrcdnbf\\d+\\.com",
+                "bfeng\\d+\\.com"
+            ],
+            "cache_subdir": "BF",
+            "fingerprint": [],
+            "fingerprints": [],
+            "filter_regex": [],
+            "index_mode": "single",
+            "detect_mode": "sequence",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 4,
+            "remark": "可疑区间 #2410-#2419（10 段 / 26.5 秒）；按时长指纹定位，请核对区间无误后再启用；片段路径与正片不同，可信度较高；已自动截取区间内重复段（8×3.00s）作为通用指纹 广告与正片 TS 不连贯，改用序列检测，无需特征码"
+        },
+        {
+            "id": "modujx",
+            "name": "魔都",
+            "parse_type": "duration",
+            "url_prefix": "play.modujx17.com",
+            "url_regex": "modujx\\d*",
+            "url_prefixes": [
+                "play.modujx17.com"
+            ],
+            "url_regexes": [
+                "modujx\\d*"
+            ],
+            "cache_subdir": "MD",
+            "fingerprint": [],
+            "fingerprints": [],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "sequence",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 10,
+            "remark": "广告片段走站点域名、正片走 bf CDN 域名；指纹取中间稳定段 3,3,5,3,3 广告与正片 TS 不连贯，改用序列检测，无需特征码"
+        },
+        {
+            "id": "wsyzym",
+            "name": "无水印",
+            "parse_type": "hash",
+            "url_prefix": "v14.wsyzym3u8.com",
+            "url_regex": "wsyzym3u\\d*",
+            "url_prefixes": [
+                "v14.wsyzym3u8.com",
+                "www.acthow.com",
+                "www.mtime.com",
+                "www.6r9.net",
+                "morricone.cn"
+            ],
+            "url_regexes": [
+                "wsyzym3u\\d*",
+                "acthow\\d*",
+                "mtime\\d*",
+                "v\\d+\\.wsyzym3u8\\.com",
+                "6r\\d*",
+                "morricone\\d*"
+            ],
+            "cache_subdir": "WSY",
+            "fingerprint": [
+                2.1,
+                2,
+                2,
+                1.97,
+                1.93,
+                1.77
+            ],
+            "fingerprints": [
+                [
+                    2,
+                    2.07,
+                    1.93,
+                    2,
+                    2.07,
+                    2.03,
+                    1.93,
+                    0.43
+                ],
+                [
+                    2.03,
+                    2,
+                    2.07,
+                    2,
+                    1.93,
+                    1.83
+                ],
+                [
+                    2.03,
+                    2,
+                    2.03,
+                    1.93,
+                    2,
+                    2.03,
+                    2.03,
+                    1.07
+                ]
+            ],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "discpair",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 11,
+            "remark": "DISC-DISC双DISC广告块检测(wsyzym3u8/wsyzyts.vip 2000k流); 标记学习:https://v15.wsyzym3u8.com/202609/23/0gW1tZLA9S27/video/index; 标记学习:https://v13.wsyzym3u8.com/202609/23/sxdfz3ZDqH27/video/index"
+        },
+        {
+            "id": "sdzy",
+            "name": "闪电",
+            "parse_type": "duration",
+            "url_prefix": "v14.qqqrst.com",
+            "url_regex": "qqqrst\\d*",
+            "url_prefixes": [
+                "v14.qqqrst.com",
+                "v13.qqqrst.com",
+                "v6.qqqrst.com",
+                "v5.qqqrst.com",
+                "v3.qqqrst.com",
+                "v4.qqqrst.com",
+                "v2.qqqrst.com",
+                "v11.qqqrst.com",
+                "v1.qqqrst.com",
+                "v12.qqqrst.com",
+                "v9.qqqrst.com",
+                "v8.qqqrst.com",
+                "v10.qqqrst.com",
+                "v7.qqqrst.com",
+                "pptv.1080tg.com",
+                "top.1080pzy.co",
+                "top.youkuplaya.com",
+                "v5.tlkqc.com",
+                "top.nfm3u8.com",
+                "v11.tlkqc.com",
+                "v6.tlkqc.com"
+            ],
+            "url_regexes": [
+                "qqqrst\\d*",
+                "1080tg\\d*",
+                "1080pzy\\d*",
+                "youkuplaya\\d*",
+                "tlkqc\\d*",
+                "nfm3u\\d*",
+                "v\\d+\\.qqqrst\\.com",
+                "v\\d+\\.tlkqc\\.com"
+            ],
+            "cache_subdir": "SD",
+            "fingerprint": [],
+            "fingerprints": [],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "slicebatch",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 6,
+            "remark": "｜ slicebatch：切片批次 mtime，短插播(≤3块/90s)判广告，长独立批次段视为正片分卷"
+        },
+        {
+            "id": "wujin",
+            "name": "无尽",
+            "parse_type": "duration",
+            "url_prefix": "v6.wujinwsym3u8.com",
+            "url_regex": "wujinwsym3u\\d*",
+            "url_prefixes": [
+                "v6.wujinwsym3u8.com",
+                "v3.wujinwsym3u8.com",
+                "v5.wujinwsym3u8.com",
+                "v12.wujinwsym3u8.com",
+                "v11.wujinwsym3u8.com",
+                "v10.wujinwsym3u8.com",
+                "v9.wujinwsym3u8.com",
+                "v2.wujinwsym3u8.com",
+                "v8.wujinwsym3u8.com",
+                "v7.wujinwsym3u8.com",
+                "v1.wujinwsym3u8.com",
+                "v4.wujinwsym3u8.com",
+                "v14.yuglf.com",
+                "v13.yuglf.com",
+                "v11.mzxay.com",
+                "v6.qrssv.com"
+            ],
+            "url_regexes": [
+                "wujinwsym3u\\d*",
+                "yuglf\\d*",
+                "mzxay\\d*",
+                "qrssv\\d*",
+                "v\\d+\\.wujinwsym3u8\\.com",
+                "v\\d+\\.yuglf\\.com"
+            ],
+            "cache_subdir": "WJ",
+            "fingerprint": [],
+            "fingerprints": [],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "sequence",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 7,
+            "remark": ""
+        },
+        {
+            "id": "yyzy",
+            "name": "优质",
+            "parse_type": "duration",
+            "url_prefix": "yzzy.play-cdn17.com",
+            "url_regex": "play-cdn\\d*",
+            "url_prefixes": [
+                "yzzy.play-cdn17.com",
+                "yzzy.play-cdn2.com",
+                "yzzy21.playback-speed.com",
+                "svip.high24-playback.com",
+                "cdn.yzzyvip-29.com",
+                "svip.yyzy-play.vip",
+                "svip.high25-playback.com",
+                "vvip.high26-playback.com",
+                "cdn.yzzy28-play.com",
+                "cdn.vvvip-plays33.cc",
+                "cdn.yzzy31-play.com",
+                "cdn1.yzzyhd-play.com",
+                "cdn.yzzy27-play.com",
+                "svip.high20-playback.com",
+                "svip.high23-playback.com",
+                "v2.yzzy5-play.com",
+                "player.yzzyvip-35.com",
+                "cdn.yzzy32-play.com",
+                "cdn.yzzy30-play.com",
+                "yzzy.play-cdn10.com",
+                "player.yzzyssvip-36.com",
+                "cdn14.yzzy-dy-cdn.com",
+                "cdn.power34play.vip",
+                "cdn16.yzzy-kb-cdn.com",
+                "cdn15.yzzy-kb-cdn.com",
+                "cdn17.yzzy-kb-cdn.com",
+                "cdn18.yzzy-kb-cdn.com",
+                "cdn19.yzzy-kb-cdn.com",
+                "vip.yzzy21-play.com",
+                "cdn14.vipzyk-video.com"
+            ],
+            "url_regexes": [
+                "play-cdn\\d*",
+                "playback-speed\\d*",
+                "high24-playback\\d*",
+                "yzzyvip-\\d*",
+                "yyzy-play\\d*",
+                "high25-playback\\d*",
+                "high26-playback\\d*",
+                "yzzy28-play\\d*",
+                "vvvip-plays\\d*",
+                "yzzy31-play\\d*",
+                "yzzyhd-play\\d*",
+                "yzzy27-play\\d*",
+                "high20-playback\\d*",
+                "high23-playback\\d*",
+                "yzzy5-play\\d*",
+                "yzzy32-play\\d*",
+                "yzzyssvip-\\d*",
+                "yzzy-dy-cdn\\d*",
+                "power34play\\d*",
+                "yzzy\\.play-cdn\\d+\\.com",
+                "cdn\\.yzzy\\d+-play\\.com",
+                "svip\\.high\\d+-playback\\.com",
+                "yzzy-kb-cdn\\d*",
+                "cdn\\d+\\.yzzy-dy-cdn\\.com",
+                "cdn\\d+\\.yzzy-kb-cdn\\.com",
+                "yzzy21-play\\d*",
+                "vipzyk-video\\d*"
+            ],
+            "cache_subdir": "YZ",
+            "fingerprint": [],
+            "fingerprints": [],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "shortblock",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 8,
+            "remark": "｜ blockcut：广告为 DISCONTINUITY 包裹的短块(4-5片/16-18s)，尾片1.7s远小于众数4.0s ｜ shortblock：整片仅4处DISCONTINUITY，正片块124-213片，广告为孤立短块(4-5片/16-18s)"
+        },
+        {
+            "id": "jisuzyv",
+            "name": "极速",
+            "parse_type": "direct",
+            "url_prefix": "vv.jisuzyv.com",
+            "url_regex": "",
+            "url_prefixes": [
+                "vv.jisuzyv.com"
+            ],
+            "cache_subdir": "jisuzyv",
+            "fingerprint": [],
+            "fingerprints": [],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "auto",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 12,
+            "remark": "直链播放：无插播广告时输出源地址"
+        },
+        {
+            "id": "ryiplay18",
+            "name": "如意",
+            "parse_type": "duration",
+            "url_prefix": "svip.ryiplay18.com",
+            "url_regex": "ryiplay\\d*",
+            "url_prefixes": [
+                "svip.ryiplay18.com",
+                "svip.ryiplay19.com",
+                "svip.ryiplay20.com"
+            ],
+            "url_regexes": [
+                "ryiplay\\d*",
+                "svip\\.ryplay\\d+\\.com",
+                "cdn\\.ryplay\\d+\\.com",
+                "cdn\\d+\\.ryplay\\d+\\.com",
+                "svip\\.ryiplay\\d+\\.com"
+            ],
+            "cache_subdir": "ryiplay",
+            "fingerprint": [
+                4,
+                4,
+                4,
+                4,
+                4
+            ],
+            "fingerprints": [
+                [
+                    4,
+                    5.48,
+                    2.68
+                ],
+                [
+                    4,
+                    5.48,
+                    2.92,
+                    4,
+                    4.32,
+                    1.28
+                ],
+                [
+                    4,
+                    5,
+                    4,
+                    4.24,
+                    2.76
+                ]
+            ],
+            "filter_regex": [],
+            "index_mode": "auto",
+            "detect_mode": "blockcut",
+            "stream_pick": "first",
+            "enabled": true,
+            "sort": 0,
+            "remark": "标记学习:https://svip.ryiplay18.com/20260917/11155_eb57fc5f/index.m3u"
+        }
+    ],
+    "sources": [
+        {
+            "id": "dytt",
+            "name": "电影天堂 dytt",
+            "api_url": "https://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+            "kind": "xml",
+            "site_id": "dytt",
+            "preset": true,
+            "sort": 1
+        },
+        {
+            "id": "xg",
+            "name": "西瓜 xg",
+            "api_url": "https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/",
+            "kind": "xml",
+            "site_id": "xg",
+            "preset": true,
+            "sort": 2
+        },
+        {
+            "id": "lz",
+            "name": "量子 lz",
+            "api_url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+            "kind": "xml",
+            "site_id": "lz",
+            "preset": true,
+            "sort": 3
+        },
+        {
+            "id": "bf",
+            "name": "暴风 bf",
+            "api_url": "https://bfzyapi.com/api.php/provide/vod/",
+            "kind": "json",
+            "site_id": "fengbao",
+            "preset": true,
+            "sort": 4
+        },
+        {
+            "id": "mdzy",
+            "name": "魔都 mdzy",
+            "api_url": "https://www.mdzyapi.com/api.php/provide/vod/?ac=videolist",
+            "kind": "xml",
+            "site_id": "modujx",
+            "pages": 3,
+            "preset": true,
+            "sort": 5
+        },
+        {
+            "id": "wsyzy",
+            "name": "无水印 wsyzy",
+            "api_url": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml",
+            "kind": "xml",
+            "site_id": "wsyzym",
+            "pages": 3,
+            "preset": true,
+            "sort": 6
+        },
+        {
+            "id": "sdzy",
+            "name": "闪电 sdzy",
+            "api_url": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/",
+            "kind": "xml",
+            "site_id": "sdzy",
+            "pages": 3,
+            "preset": true,
+            "sort": 7
+        },
+        {
+            "id": "wujin",
+            "name": "无尽 wujin",
+            "api_url": "http://api.wujinwszy.net/api.php/provide/vod/?ac=videolist",
+            "kind": "xml",
+            "site_id": "wujin",
+            "pages": 3,
+            "preset": true,
+            "sort": 8
+        },
+        {
+            "id": "yyzy",
+            "name": "优质 yyzy",
+            "api_url": "https://api.yyzy-tv.vip/inc/api_mac10.php",
+            "kind": "json",
+            "site_id": "yyzy",
+            "pages": 3,
+            "preset": true,
+            "sort": 9
+        },
+        {
+            "id": "src5y7ins",
+            "name": "如意",
+            "api_url": "https://bycj.rytvapi.com/api.php/provide/vod/from/rym3u8/?ac=videolist",
+            "kind": "json",
+            "site_id": "ryiplay18",
+            "pages": 3,
+            "sort": 10
+        }
+    ],
+    "ads_lib": {
+        "sample_size": 262144,
+        "fingerprints": [
+            {
+                "site": "xgplay(西瓜)",
+                "sample_size": 262144,
+                "segs": [
+                    {
+                        "sample": "50e9bad9827b96eb",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "8cf9e507cbe97d1e",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "9ff503296875ed14",
+                        "size": 262144
+                    }
+                ]
+            },
+            {
+                "site": "dytt(电影天堂)",
+                "sample_size": 262144,
+                "segs": [
+                    {
+                        "sample": "a9b74edc95cd0a35",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "ba4f4e515321a98b",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "97d035fc128c3ffb",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "66bcc5d61771c98d",
+                        "size": 262144
+                    },
+                    {
+                        "sample": "850b5bdea0503d47",
+                        "size": 262144
+                    }
+                ]
+            }
+        ]
+    },
+    "clean_paths": [
+        {
+            "id": "default",
+            "name": "默认接口",
+            "path": "/api/clean",
+            "enabled": true,
+            "note": "系统内置解析接口：GET 传入 ?url= m3u8 地址即可解析；可改备注名与说明，可临时停用，但不可删除。"
+        }
+    ],
+    "admin_password_hash": "f3de02902711a3245e353c3880309ab988443f27aee78685931e24492867e3b5"
+}

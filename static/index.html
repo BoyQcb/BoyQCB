@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>M3U8 广告过滤管理系统</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%234f6ef7'/><text x='16' y='23' font-size='18' text-anchor='middle' fill='white' font-family='sans-serif'>B</text></svg>">
+<script>window.ADMIN_PATH="__ADMIN_PATH__";</script>
+<script>
+/* 首屏防白闪：在样式生效前先定好 data-theme */
+(function () {
+  try {
+    var m = localStorage.getItem('dytt.theme') || 'auto';
+    var h = new Date().getHours();
+    var dark = m === 'dark' || (m === 'auto' && (h >= 18 || h < 7));
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+  } catch (e) { document.documentElement.setAttribute('data-theme', 'light'); }
+})();
+</script>
+<link rel="stylesheet" href="css/app.css?v=__BUILD__">
+<script src="js/echarts.min.js"></script>
+<script>(function(){var m=/[?&]hlsv=([0-9.]+)/.exec(location.search);var v=m?m[1]:"1.7.1";document.write('<script src="js/hls.'+v+'.js?v=__BUILD__"><\/script>');})();</script>
+</head>
+<body>
+
+<!-- ========== 登录页 ========== -->
+<div id="loginPage" class="login-page hidden">
+  <div class="login-card">
+    <div class="login-logo">▶</div>
+    <h1>M3U8 广告过滤</h1>
+    <p class="login-sub">资源站广告检测 / 剔除管理系统</p>
+    <form id="loginForm" autocomplete="off">
+      <input type="password" id="loginPwd" class="txt" placeholder="管理密码" autofocus>
+      <button type="submit" class="btn btn-primary btn-block">登 录</button>
+    </form>
+    <p id="loginErr" class="login-err"></p>
+    <p class="login-hint">默认密码 admin123 · 登录后可在「系统设置」修改</p>
+    <p class="login-ver">v<span id="loginVer">1.2.3</span></p>
+  </div>
+</div>
+
+<!-- ========== 后台 ========== -->
+<div id="app" class="app hidden">
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-logo">▶</span>
+      <span class="brand-name">M3U8 过滤后台</span>
+    </div>
+    <nav class="nav" id="nav">
+      <a href="#/dashboard" data-page="dashboard" class="nav-item"><span class="nav-ico">▦</span>控制面板</a>
+      <a href="#/system" data-page="system" class="nav-item"><span class="nav-ico">⚙</span>系统设置</a>
+      <a href="#/sites" data-page="sites" class="nav-item"><span class="nav-ico">◈</span>资源站规则</a>
+      <a href="#/logs" data-page="logs" class="nav-item"><span class="nav-ico">☰</span>调用日志</a>
+      <a href="#/discover" data-page="discover" class="nav-item"><span class="nav-ico">◎</span>域名发现</a>
+      <a href="#/test" data-page="test" class="nav-item"><span class="nav-ico">▶</span>M3U8 测试</a>
+    </nav>
+    <div class="sidebar-foot">
+      <div class="sys-ver">v<span id="ver"></span></div>
+    </div>
+  </aside>
+
+  <div id="sbMask" class="sb-mask"></div>
+
+  <main class="main">
+    <header class="topbar">
+      <h2 id="pageTitle">控制面板</h2>
+      <button id="sbToggle" class="sb-toggle" title="折叠 / 展开侧边栏">☰</button>
+      <div class="topbar-right">
+        <span class="ver-chip">v<span id="verTop"></span></span>
+        <span class="server-time" id="serverTime"></span>
+        <span class="clock" id="clock"></span>
+        <div class="theme-wrap">
+          <button id="themeBtn" class="theme-btn" title="主题：自动（18:00-07:00 夜间）/ 亮色 / 暗色">◐</button>
+          <div id="themeMenu" class="theme-menu hidden">
+            <button type="button" data-theme-set="auto">◐ 自动（18:00-07:00 夜间）</button>
+            <button type="button" data-theme-set="light">☀ 亮色</button>
+            <button type="button" data-theme-set="dark">☾ 暗色</button>
+          </div>
+        </div>
+        <button id="logoutBtn" class="btn btn-ghost btn-sm">退出登录</button>
+      </div>
+    </header>
+    <div class="content">
+      <section id="page-dashboard" class="page"></section>
+      <section id="page-sites" class="page"></section>
+      <section id="page-logs" class="page"></section>
+      <section id="page-discover" class="page"></section>
+      <section id="page-test" class="page"></section>
+      <section id="page-system" class="page"></section>
+    </div>
+  </main>
+</div>
+
+<!-- ========== 站点编辑弹窗 ========== -->
+<div id="siteModal" class="modal-mask hidden">
+  <div class="modal modal-lg">
+    <div class="modal-head">
+      <h3 id="siteModalTitle">新增站点</h3>
+      <button class="modal-close" data-close="1">×</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-grid">
+        <div class="probe-box field-full">
+          <div class="probe-head">
+            <strong>自动探测（推荐）</strong>
+            <span class="probe-tip">粘贴一个该站的 m3u8 示例地址，自动分析索引结构并找出广告区间</span>
+          </div>
+          <div class="probe-row">
+            <input type="text" id="f-probeurl" placeholder="如 https://v.lzcdn27.com/20260828/16162_6a1052c9/index.m3u8">
+            <label class="mini-check" title="逐段采样比对内容，能发现无时长特征的广告，耗时较长">
+              <input type="checkbox" id="f-probehash"> 内容哈希探测
+            </label>
+            <button type="button" class="btn btn-primary btn-sm" id="probeBtn">开始探测</button>
+          </div>
+          <div id="probeResult" class="probe-result hidden"></div>
+        </div>
+        <label class="field">
+          <span>站点名 <em>*</em></span>
+          <input type="text" id="f-name" placeholder="如 电影天堂(vip.dytt*)">
+        </label>
+        <label class="field">
+          <span>解析类型</span>
+          <select id="f-parsetype">
+            <option value="both">both（指纹+哈希）</option>
+            <option value="duration">duration（仅时长指纹）</option>
+            <option value="hash">hash（仅内容哈希）</option>
+            <option value="direct">direct（直链播放：无广告时输出源地址，检测/索引自动跟随）</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>检测方式</span>
+          <select id="f-detectmode">
+            <option value="auto">auto（自动：序列判据+指纹/哈希补充，直链站点未配置时默认）</option>
+            <option value="sequence">sequence（TS 序列连贯性，推荐）</option>
+            <option value="blockcut">blockcut（广告块尾部截断，同目录广告专用）</option>
+                                        <option value="slicebatch">slicebatch（切片批次mtime，同目录同批广告专用）</option>
+                                        <option value="shortblock">shortblock（孤立短块，DISCONTINUITY少、正片块极长）</option>
+        <option value="slicebatch">slicebatch（切片批次 mtime，同目录广告专用）</option>
+            <option value="fingerprint">fingerprint（时长/路径特征）</option>
+            <option value="both">both（指纹+哈希）</option>
+            <option value="hash">hash（内容哈希）</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>索引模式</span>
+          <select id="f-indexmode">
+            <option value="auto">auto（跟随主索引子列表）</option>
+            <option value="single">single（本地址即片段列表）</option>
+            <option value="fixed">fixed（固定子路径）</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>码率选择</span>
+          <select id="f-streampick">
+            <option value="first">first（第一条）</option>
+            <option value="highest">highest（最高码率）</option>
+            <option value="lowest">lowest（最低码率）</option>
+          </select>
+        </label>
+        <label class="field field-full">
+          <span>固定子路径（索引模式=fixed 时生效）</span>
+          <input type="text" id="f-fixedsub" placeholder="如 3000k/hls/mixed.m3u8 或 /20260828/xxx/hls/index.m3u8">
+        </label>
+        <label class="field field-full">
+          <span>站点级出网代理（可选，仅对该站点生效；留空=按代理池/直连，填 - 表示强制直连）</span>
+          <input type="text" id="f-proxyurl" placeholder="如 socks5://user:pass@1.2.3.4:1080 或 http://1.2.3.4:8080">
+        </label>
+        <label class="field field-full">
+          <span>URL 匹配前缀（站点路由：只对主机名做前缀匹配，可添加多个，任一命中即匹配该站点）</span>
+          <div id="urlPrefixRows" class="relist"></div>
+          <button type="button" class="btn btn-ghost btn-sm" id="addPrefixBtn">＋ 添加前缀</button>
+        </label>
+        <label class="field field-full">
+          <span>URL 匹配正则（站点路由补充：默认只对主机名匹配；仅当正则以 ^ 开头或含 :// 时才对整条 URL 匹配。可添加多个，任一命中即匹配该站点）</span>
+          <div id="urlRegexRows" class="relist"></div>
+          <button type="button" class="btn btn-ghost btn-sm" id="addUrlRegexBtn">＋ 添加正则</button>
+        </label>
+        <label class="field">
+          <span>缓存子目录（保存时自动同步：新建=创建目录，改名=重命名目录，删除规则=删除目录）</span>
+          <input type="text" id="f-subdir" placeholder="如 dytt">
+        </label>
+        <label class="field">
+          <span>排序码</span>
+          <input type="number" id="f-sort" value="0">
+        </label>
+        <label class="field field-full">
+          <span>特征码（广告时长指纹，一行一组；多处广告形态不同时可填多组，任一命中即剔除）</span>
+          <textarea id="f-fingerprint" rows="3" placeholder="5.567,3.2,5.367,3.333,1.6&#10;3,3,3,3,3,3,3,3"></textarea>
+        </label>
+        <label class="field field-full">
+          <span>广告过滤正则列表（片段级广告剔除，与站点路由无关；当前版本后端未使用该字段，仅作记录预留，不影响匹配结果。可动态增删）</span>
+          <div id="regexRows" class="relist"></div>
+          <button type="button" class="btn btn-ghost btn-sm" id="addRegexBtn">＋ 添加正则</button>
+        </label>
+        <label class="field field-full">
+          <span>备注</span>
+          <input type="text" id="f-remark" placeholder="可选">
+        </label>
+        <label class="field check">
+          <input type="checkbox" id="f-enabled" checked>
+          <span>启用该站点</span>
+        </label>
+      </div>
+    </div>
+    <div class="modal-foot">
+      <span id="siteErr" class="form-err"></span>
+      <button class="btn btn-ghost" data-close="1">取消</button>
+      <button class="btn btn-primary" id="siteSaveBtn">保存</button>
+    </div>
+  </div>
+</div>
+
+<div id="dsModal" class="modal-mask hidden">
+  <div class="modal modal-lg ds-modal">
+    <div class="modal-head">
+      <h3 id="dsModalTitle">规则配置</h3>
+      <button class="modal-close" type="button" id="dsModalClose" title="关闭（Esc）">×</button>
+    </div>
+    <div class="modal-body" id="dsModalBody"></div>
+    <div class="modal-foot" id="dsModalFoot"></div>
+  </div>
+</div>
+
+<div id="learnModal" class="modal-mask hidden">
+  <div class="modal modal-lg learn-modal">
+    <div class="modal-head">
+      <h3 id="learnModalTitle">规则学习建议</h3>
+      <button class="modal-close" type="button" id="learnModalClose" title="关闭（Esc）">×</button>
+    </div>
+    <div class="modal-body" id="learnModalBody"></div>
+    <div class="modal-foot" id="learnModalFoot"></div>
+  </div>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="js/app.js?v=__BUILD__"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+# data 目录伪装成 404：不返回 403、不列目录，让探测者无法判断该目录是否存在
+# 兼容 Apache 2.2 / 2.4；Windows 下写入无害（其他 Web 服务器忽略此文件）
+<IfModule mod_alias.c>
+  RedirectMatch 404 ^/data(/|$)
+</IfModule>
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^data(/|$) - [R=404,L]
+</IfModule>

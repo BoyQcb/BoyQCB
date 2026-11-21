@@ -1,0 +1,252 @@
+{
+  "records": {
+    "1b4800cec1b22b27bbf785aa1e81f51b": {
+      "key": "1b4800cec1b22b27bbf785aa1e81f51b",
+      "site_id": "wsyzym",
+      "site_name": "无水印",
+      "url": "https://v15.wsyzym3u8.com/202609/23/0gW1tZLA9S27/video/index.m3u8",
+      "sub_url": "https://v15.wsyzym3u8.com/202609/23/0gW1tZLA9S27/video/2000k_1080/hls/index.m3u8",
+      "total_segs": 571,
+      "segs": [
+        {
+          "index": 142,
+          "dur": 2.033333,
+          "url": "https://v15.wsyzyts.vip/202609/23/0gW1tZLA9S27/video/2000k_1080/hls/n0y1axA48B.ts?sign=1790279325-fhPJkQ1AEJzhz92v-9f41a352fb58097c06b9c8142418ca5f",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 143,
+          "dur": 2,
+          "url": "https://v15.wsyzyts.vip/202609/23/0gW1tZLA9S27/video/2000k_1080/hls/RrdT4Qve0D.ts?sign=1790279325-CG7cM8SegUK56jQT-6269485845f72915b85e2bfb9e6029de",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 144,
+          "dur": 2.066667,
+          "url": "https://v15.wsyzyts.vip/202609/23/0gW1tZLA9S27/video/2000k_1080/hls/iNyX3YrqIq.ts?sign=1790279325-R8rXtTT93Q3wb8Ag-8cd6cbb4330be46ac6d05f2b349627cd",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 145,
+          "dur": 2,
+          "url": "https://v15.wsyzyts.vip/202609/23/0gW1tZLA9S27/video/2000k_1080/hls/Q1R2brFwXf.ts?sign=1790279325-HqMXbETx0goQhk05-bcc12021fed37caaa3da975048e5444a",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 146,
+          "dur": 1.933333,
+          "url": "https://v15.wsyzyts.vip/202609/23/0gW1tZLA9S27/video/2000k_1080/hls/l9VPGDg44K.ts?sign=1790279325-imvxaoX7HDejWtAD-707b11e06549462ebb412c776ab3e748",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 147,
+          "dur": 1.833333,
+          "url": "https://v15.wsyzyts.vip/202609/23/0gW1tZLA9S27/video/2000k_1080/hls/H1bbCIaAY1.ts?sign=1790279325-J7wrQaGnDP13GY7n-fac4b0133f3269417191aec99aebcf08",
+          "kind": "ad",
+          "was_ad": false
+        }
+      ],
+      "created_at": "2026-09-25 01:50:46",
+      "updated_at": "2026-09-25 01:50:54"
+    },
+    "434a5f8046821f7c5d5053af6d42adb0": {
+      "key": "434a5f8046821f7c5d5053af6d42adb0",
+      "site_id": "wsyzym",
+      "site_name": "无水印",
+      "url": "https://v13.wsyzym3u8.com/202609/23/sxdfz3ZDqH27/video/index.m3u8",
+      "sub_url": "https://v13.wsyzym3u8.com/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/index.m3u8",
+      "total_segs": 633,
+      "segs": [
+        {
+          "index": 157,
+          "dur": 2.033333,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/6VrwAyWQHo.ts?sign=1790279566-Ee3ojmOnMucKftGU-a9fca1c5bb70b76ec09409f452430deb",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 158,
+          "dur": 2,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/27Y6xPMG3h.ts?sign=1790279566-g0lYBYlje3CmhdjU-d73da97b0c903f215bb86b48bcd07d48",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 159,
+          "dur": 2.033333,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/i24EIE0RM0.ts?sign=1790279566-2Ub8iY6uZgIOumXj-786cdd07007a9980d2ad9fab3202946f",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 160,
+          "dur": 1.933333,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/WEcDoh8WNB.ts?sign=1790279566-RKc735uMBfpDioc2-2d83d9a7811742748fc67d86677dd4dc",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 161,
+          "dur": 2,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/wspmIjc4NV.ts?sign=1790279566-vhfUD8QXjoKdbgGH-f9edc3b456bb19a668c5739e32f705d1",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 162,
+          "dur": 2.033333,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/qAWwtkFUwD.ts?sign=1790279566-VdZOlwcAlUIOJNtk-a738b75fb9078b923e88b0ae2feda41f",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 163,
+          "dur": 2.033333,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/hPfTsU28De.ts?sign=1790279566-ytHr55bvVfJ3LTjQ-91e1b431cdc243242258c5c73bf42de9",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 164,
+          "dur": 1.066667,
+          "url": "https://v13.wsyzyts.vip/202609/23/sxdfz3ZDqH27/video/2000k_1080/hls/bI8TNCXE0m.ts?sign=1790279566-CC1t1ZSEqf0DJGqp-6dfcaaf959cbf3d4b6cd2e3c176a9eeb",
+          "kind": "ad",
+          "was_ad": false
+        }
+      ],
+      "created_at": "2026-09-25 02:09:57",
+      "updated_at": "2026-09-25 02:10:07"
+    },
+    "87ca21c3b4b8a097898bf0bc4f6d5649": {
+      "key": "87ca21c3b4b8a097898bf0bc4f6d5649",
+      "site_id": "yyzy",
+      "site_name": "优质",
+      "url": "https://cdn.vvvip-plays33.cc/20260902/18947_523b9a21/index.m3u8",
+      "sub_url": "https://cdn.vvvip-plays33.cc/20260902/18947_523b9a21/3000k/hls/mixed.m3u8",
+      "total_segs": 1716,
+      "hits": [
+        [
+          125,
+          128
+        ],
+        [
+          504,
+          508
+        ],
+        [
+          909,
+          912
+        ],
+        [
+          1513,
+          1517
+        ]
+      ],
+      "segs": [
+        {
+          "index": 1713,
+          "dur": 6.633333,
+          "url": "https://cdn.vvvip-plays33.cc/20260902/18947_523b9a21/3000k/hls/840bd77a3aa43a4952c088498a745043.ts",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 1714,
+          "dur": 3.333333,
+          "url": "https://cdn.vvvip-plays33.cc/20260902/18947_523b9a21/3000k/hls/12eb068d41067c9891daf4881d294e28.ts",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 1715,
+          "dur": 4.8,
+          "url": "https://cdn.vvvip-plays33.cc/20260902/18947_523b9a21/3000k/hls/56800dd27d38c53e8fc54cfa8c3fae87.ts",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 1716,
+          "dur": 1.7,
+          "url": "https://cdn.vvvip-plays33.cc/20260902/18947_523b9a21/3000k/hls/c1b4799e8941401f03234213b9aa6307.ts",
+          "kind": "ad",
+          "was_ad": false
+        }
+      ],
+      "created_at": "2026-09-02 20:14:27",
+      "updated_at": "2026-09-02 20:14:33"
+    },
+    "cc6aad18370878b9655c2145798e0428": {
+      "key": "cc6aad18370878b9655c2145798e0428",
+      "site_id": "wsyzym",
+      "site_name": "无水印",
+      "url": "https://v13.wsyzym3u8.com/202609/23/DWjEWyEuT427/video/index.m3u8",
+      "sub_url": "https://v13.wsyzym3u8.com/202609/23/DWjEWyEuT427/video/2000k_1080/hls/index.m3u8",
+      "total_segs": 594,
+      "segs": [
+        {
+          "index": 147,
+          "dur": 2,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/agh4keDFu1.ts?sign=1790278717-4mWhhOZmHILp5y7d-b4ca91c8a967062ece7142cbdb151cd4",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 148,
+          "dur": 2.066667,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/VaFLCfJBUY.ts?sign=1790278717-kFSbMcGaLQW7vo0M-a9f8abd5be6fc0969fb6741a940f7a0c",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 149,
+          "dur": 1.933333,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/XzmFlCM8mG.ts?sign=1790278717-Bbw4x62CWJVnTTnj-5754833940c21c6937cdb4a7245f7bb3",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 150,
+          "dur": 2,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/z49smdVXtj.ts?sign=1790278717-KBJLGOlfhTIb0S3b-965199fa7fc66536ebb6a1fbe228e1d6",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 151,
+          "dur": 2.066667,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/fcqweVMgxf.ts?sign=1790278717-grojaGYQjTLumA4M-2970e4e5aef27201b2c63eb71526650a",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 152,
+          "dur": 2.033333,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/rBvYsEiw1o.ts?sign=1790278717-kLXNSXeYRG4BaH5O-838c62cb38090301714e0e84f9509e02",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 153,
+          "dur": 1.933333,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/uPMuXc7dRq.ts?sign=1790278717-ir3nYsF4c5OTOzbr-631a7c6277958922494303f6f6d92271",
+          "kind": "ad",
+          "was_ad": false
+        },
+        {
+          "index": 154,
+          "dur": 0.433333,
+          "url": "https://v13.wsyzyts.vip/202609/23/DWjEWyEuT427/video/2000k_1080/hls/Q6qsw0MjsP.ts?sign=1790278717-qGyUavYlu22YdLQm-0242031650801e8ed0c33a4139f5245a",
+          "kind": "ad",
+          "was_ad": false
+        }
+      ],
+      "created_at": "2026-09-25 01:39:56",
+      "updated_at": "2026-09-25 01:40:08"
+    }
+  }
+}

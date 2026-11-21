@@ -1,0 +1,19 @@
+# ---------- 编译产物 ----------
+*.exe
+/output/*
+!/output/Linux部署说明.md
+*.zip
+
+# ---------- 运行数据与日志 ----------
+/logs/
+/cache/
+/cache.zip
+/data/*.bak_*
+/data/*.log
+
+# ---------- 系统/编辑器 ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/

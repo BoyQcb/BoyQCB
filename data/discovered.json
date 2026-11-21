@@ -1,0 +1,3490 @@
+{
+  "sources": {
+    "http://api.wujinwszy.net/api.php/provide/vod/?ac=videolist": {
+      "last_scan": "2026-09-02 00:15:00",
+      "scans": 2,
+      "hosts": {
+        "v1.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 6780,
+          "sample": "https://v1.wujinwsym3u8.com/202604/18/LCM7JECrag97/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v10.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 7510,
+          "sample": "https://v10.wujinwsym3u8.com/wjv10/202407/01/DkRf0e7Vzb82/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v11.mzxay.com": {
+          "first_seen": "2026-09-02 00:15:00",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 2,
+          "sample": "https://v11.mzxay.com/202407/10/faycQrW8wc8/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "歌手2024"
+        },
+        "v11.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 8569,
+          "sample": "https://v11.wujinwsym3u8.com/wjv11/202605/02/D9WHJBDNzk86/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v12.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 7592,
+          "sample": "https://v12.wujinwsym3u8.com/wjv12/202604/15/4jyQzJsbZR87/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v13.yuglf.com": {
+          "first_seen": "2026-09-02 00:15:00",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 6,
+          "sample": "https://v13.yuglf.com/202603/03/JE279cyFbp22/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "3月3日 25-26赛季NBA常规赛 凯尔特人VS雄鹿"
+        },
+        "v14.yuglf.com": {
+          "first_seen": "2026-09-02 00:15:00",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 19,
+          "sample": "https://v14.yuglf.com/202603/03/mJfjiaWVsV27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "3月3日 25-26赛季意甲第27轮 乌迪内斯VS佛罗伦萨"
+        },
+        "v2.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 18408,
+          "sample": "https://v2.wujinwsym3u8.com/wjv2/202402/19/JtwnU8QVyy2/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v3.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 4840,
+          "sample": "https://v3.wujinwsym3u8.com/wjv3/202310/03/CbFExJxWAy2/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v4.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 2301,
+          "sample": "https://v4.wujinwsym3u8.com/wjv4/202606/27/jNzpEvuNFP95/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v5.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 13341,
+          "sample": "https://v5.wujinwsym3u8.com/wjv5/202608/03/9VZdNU65tu86/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v6.qrssv.com": {
+          "first_seen": "2026-09-02 00:15:00",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 1,
+          "sample": "https://v6.qrssv.com/202504/06/wahKnHw2J719/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我的世界大电影"
+        },
+        "v6.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 14489,
+          "sample": "https://v6.wujinwsym3u8.com/wjv6/202604/15/W8ZCKAPGeq87/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v7.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 2849,
+          "sample": "https://v7.wujinwsym3u8.com/wjv7/202605/09/QHgm9fK7cw87/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v8.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 6998,
+          "sample": "https://v8.wujinwsym3u8.com/wjv8/202604/18/XXD8xnM7aW93/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        },
+        "v9.wujinwsym3u8.com": {
+          "first_seen": "2026-08-31 19:34:49",
+          "last_seen": "2026-09-02 00:15:00",
+          "hits": 4474,
+          "sample": "https://v9.wujinwsym3u8.com/wjv9/202605/30/TDjA69DxC495/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "金牌调解"
+        }
+      }
+    },
+    "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/list": {
+      "last_scan": "2026-09-05 18:07:58",
+      "scans": 1,
+      "hosts": {
+        "v1.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 84,
+          "sample": "https://v1.wsyzym3u8.com/202410/19/yiP7CZ8wb722/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v11.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 53,
+          "sample": "https://v11.wsyzym3u8.com/202403/09/iBKHJ5KTGa3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v12.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 26,
+          "sample": "https://v12.wsyzym3u8.com/202404/06/UAkx6QRdEi8/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v13.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 292,
+          "sample": "https://v13.wsyzym3u8.com/202606/25/Re7Q8a9JTc27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "伯爵的契约女仆"
+        },
+        "v14.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 221,
+          "sample": "https://v14.wsyzym3u8.com/202607/19/3Qz7twmhtX27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "伯爵的契约女仆"
+        },
+        "v15.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 15,
+          "sample": "https://v15.wsyzym3u8.com/202609/05/HUhCbQmPEN27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "伯爵的契约女仆"
+        },
+        "v2.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 46,
+          "sample": "https://v2.wsyzym3u8.com/202402/17/aLHEEEp2Fd2/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v3.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 110,
+          "sample": "https://v3.wsyzym3u8.com/202309/23/z2LuUaKpu02/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v4.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 376,
+          "sample": "https://v4.wsyzym3u8.com/202404/20/0ebSzZaSKx15/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v5.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 99,
+          "sample": "https://v5.wsyzym3u8.com/202309/04/Pinj5f3xpN1/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v6.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 446,
+          "sample": "https://v6.wsyzym3u8.com/202406/15/TYj2rXFVyj12/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v7.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 146,
+          "sample": "https://v7.wsyzym3u8.com/202405/11/6UuaHjH8e013/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v8.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 85,
+          "sample": "https://v8.wsyzym3u8.com/202405/18/xNNHgdaBUT14/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        },
+        "v9.wsyzym3u8.com": {
+          "first_seen": "2026-09-05 18:07:58",
+          "last_seen": "2026-09-05 18:07:58",
+          "hits": 80,
+          "sample": "https://v9.wsyzym3u8.com/202407/27/HGHN9fAzjj18/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我独自生活"
+        }
+      }
+    },
+    "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml": {
+      "last_scan": "2026-09-01 23:58:10",
+      "scans": 5,
+      "hosts": {
+        "morricone.cn": {
+          "first_seen": "2026-08-31 19:34:26",
+          "last_seen": "2026-08-31 19:34:26",
+          "hits": 1,
+          "sample": "http://morricone.cn/master/master-022-2.htm",
+          "kind": "page",
+          "vod": "夜之门"
+        },
+        "v1.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 5818,
+          "sample": "https://v1.wsyzym3u8.com/202406/17/r2cvrTeEVs1/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "男生女生向前冲"
+        },
+        "v11.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 761,
+          "sample": "https://v11.wsyzym3u8.com/202403/11/18ir3QwxCJ3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v12.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 668,
+          "sample": "https://v12.wsyzym3u8.com/202404/22/mzAdDiBTPa8/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v13.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 9936,
+          "sample": "https://v13.wsyzym3u8.com/202603/30/msv4hK5Hqy27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v14.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 10047,
+          "sample": "https://v14.wsyzym3u8.com/202604/01/PhiTgUagra27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v2.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 8540,
+          "sample": "https://v2.wsyzym3u8.com/202402/19/eG6wZ6Rxz32/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v3.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 3303,
+          "sample": "https://v3.wsyzym3u8.com/202309/25/KpHtzNCJtV2/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v4.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 3377,
+          "sample": "https://v4.wsyzym3u8.com/202404/08/WrPFrN31bs15/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v5.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 3385,
+          "sample": "https://v5.wsyzym3u8.com/202309/04/5wfGf1Z7Cp1/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v6.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 1992,
+          "sample": "https://v6.wsyzym3u8.com/202410/21/G5w2bDAUvR20/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v7.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 1736,
+          "sample": "https://v7.wsyzym3u8.com/202405/20/dwGmGVhBDB13/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "新老娘舅"
+        },
+        "v8.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 1189,
+          "sample": "https://v8.wsyzym3u8.com/202406/03/uSt2hpMuDM14/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v9.wsyzym3u8.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-09-01 23:58:10",
+          "hits": 1621,
+          "sample": "https://v9.wsyzym3u8.com/202405/13/PTfhDy2fXV18/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "www.6r9.net": {
+          "first_seen": "2026-08-31 19:34:26",
+          "last_seen": "2026-08-31 19:34:26",
+          "hits": 7,
+          "sample": "https://www.6r9.net/vodsearch/-%E7%89%87%E5%B1%B1%E8%90%8C%E7%BE%8E------------.html",
+          "kind": "page",
+          "vod": "剧场版 尸囚狱 后篇"
+        },
+        "www.acthow.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-08-31 19:29:05",
+          "hits": 1,
+          "sample": "http://www.acthow.com/soren/TMovie/detail.jsp?id=30701",
+          "kind": "page",
+          "vod": "爱情全盒粤语"
+        },
+        "www.mtime.com": {
+          "first_seen": "2026-08-31 19:29:05",
+          "last_seen": "2026-08-31 19:29:05",
+          "hits": 1,
+          "sample": "http://www.mtime.com/movie/71221/",
+          "kind": "page",
+          "vod": "爱情全盒粤语"
+        }
+      }
+    },
+    "https://api.yyzy-tv.vip/inc/api_mac10.php": {
+      "last_scan": "2026-09-02 00:19:50",
+      "scans": 6,
+      "hosts": {
+        "cdn.power34play.vip": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 62428,
+          "sample": "https://cdn.power34play.vip/20260129/103_6974ce5a/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u6b66\\u795e\\u4e3b\\u5bb0"
+        },
+        "cdn.vvvip-plays33.cc": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 5839,
+          "sample": "https://cdn.vvvip-plays33.cc/20251122/74_ad61ab14/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "cdn.yzzy27-play.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 10717,
+          "sample": "https://cdn.yzzy27-play.com/20250425/829_ce78d1da/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "cdn.yzzy28-play.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 12165,
+          "sample": "https://cdn.yzzy28-play.com/20250516/59_093f65e0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "cdn.yzzy30-play.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 18375,
+          "sample": "https://cdn.yzzy30-play.com/20260723/57388_54542969/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u5996\\u795e\\u8bb0"
+        },
+        "cdn.yzzy31-play.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8195,
+          "sample": "https://cdn.yzzy31-play.com/20260310/15961_ea95de08/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "cdn.yzzy32-play.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 15195,
+          "sample": "https://cdn.yzzy32-play.com/20260416/30950_d4ce8d58/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "cdn.yzzyvip-29.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8025,
+          "sample": "https://cdn.yzzyvip-29.com/20260522/24071_4b759187/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "cdn1.yzzyhd-play.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 17920,
+          "sample": "https://cdn1.yzzyhd-play.com/20230924/652_80934ccb/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "cdn11.yzzy-dy-cdn.com": {
+          "first_seen": "2026-08-31 19:23:13",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 48,
+          "sample": "https://cdn11.yzzy-dy-cdn.com/20221102/3145_cbf27413/index.m3u8",
+          "kind": "m3u8",
+          "vod": "Anri Sugihara \\u306a\\u307e\\u30a2\\u30f3\\u30ea"
+        },
+        "cdn13.yzzy-dy-cdn.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 143,
+          "sample": "https://cdn13.yzzy-dy-cdn.com/20230312/16653_71a72329/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u79cb\\u548c\\u67ef\\u57fa - \u0026\\u5976\\u6843 \\u7535\\u8f66"
+        },
+        "cdn14.vipzyk-video.com": {
+          "first_seen": "2026-09-02 00:19:50",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 2,
+          "sample": "https://cdn14.vipzyk-video.com/20230102/3_77b45384/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u8131\\u8863\\u4fdd\\u59c6"
+        },
+        "cdn14.yzzy-dy-cdn.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 1115,
+          "sample": "https://cdn14.yzzy-dy-cdn.com/20230806/31039_69b9fea9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u7dd2\\u7403\\u6b63\\u59b9abbiehuang\\u827e\\u6bd4\\u7f8e\\u5c3b\\u633a\\u803c\\u60f3\\u4f7f\\u58de"
+        },
+        "cdn15.yzzy-dy-cdn.com": {
+          "first_seen": "2026-08-31 19:36:57",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 196,
+          "sample": "https://cdn15.yzzy-dy-cdn.com/20230730/21942_40d869cd/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u708e\\u708e\\u590f\\u65e5\\u5c31\\u559c\\u6b22\\u8fd9\\u79cd\\u8131\\u5149\\u5149\\u7684\\u611f\\u89c9"
+        },
+        "cdn15.yzzy-kb-cdn.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-08-31 19:22:44",
+          "hits": 5,
+          "sample": "https://cdn15.yzzy-kb-cdn.com/20230610/15343_98231faa/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u5168\\u5458\\u52a0\\u901f\\u4e2d\\u7b2c\\u4e09\\u5b63"
+        },
+        "cdn16.yzzy-kb-cdn.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-08-31 19:22:44",
+          "hits": 20,
+          "sample": "https://cdn16.yzzy-kb-cdn.com/20230606/8938_fa7a1dd0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u5168\\u5458\\u52a0\\u901f\\u4e2d\\u7b2c\\u4e09\\u5b63"
+        },
+        "cdn17.yzzy-kb-cdn.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-08-31 19:22:44",
+          "hits": 4,
+          "sample": "https://cdn17.yzzy-kb-cdn.com/20230611/8153_56f6ef08/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u5168\\u5458\\u52a0\\u901f\\u4e2d\\u7b2c\\u4e09\\u5b63"
+        },
+        "cdn18.yzzy-kb-cdn.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-08-31 19:22:44",
+          "hits": 3,
+          "sample": "https://cdn18.yzzy-kb-cdn.com/20230716/745_4558a348/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u5168\\u5458\\u52a0\\u901f\\u4e2d\\u7b2c\\u4e09\\u5b63"
+        },
+        "cdn19.yzzy-kb-cdn.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-08-31 19:22:44",
+          "hits": 1,
+          "sample": "https://cdn19.yzzy-kb-cdn.com/20230818/111_b0d61aba/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u5168\\u5458\\u52a0\\u901f\\u4e2d\\u7b2c\\u4e09\\u5b63"
+        },
+        "cdn7.yzzy-dy-cdn.com": {
+          "first_seen": "2026-09-02 00:19:50",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 1,
+          "sample": "https://cdn7.yzzy-dy-cdn.com/20220929/20692_13e0c821/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u30a8\\u30a4\\u30df\\u30fc\\u30fb\\u30cf\\u30b0\\u30df\\u30fc"
+        },
+        "cdn9.yzzy-dy-cdn.com": {
+          "first_seen": "2026-09-02 00:19:50",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 1,
+          "sample": "https://cdn9.yzzy-dy-cdn.com/20221004/2195_395de475/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u5922\\u307f\\u308b19\\u6b73"
+        },
+        "player.yzzyssvip-36.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 133108,
+          "sample": "https://player.yzzyssvip-36.com/20260612/1043_b9141aff/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u53cc\\u7a7f\\u8d35\\u5973\\uff1a\\u5f03\\u592b\\u540e\\u6211\\u540d\\u626c\\u671d\\u91ce"
+        },
+        "player.yzzyvip-35.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 4217,
+          "sample": "https://player.yzzyvip-35.com/20260501/5699_5c971edc/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "svip.high20-playback.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 17169,
+          "sample": "https://svip.high20-playback.com/20231004/100_63d0d17b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "svip.high23-playback.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 66588,
+          "sample": "https://svip.high23-playback.com/20250328/138141_67600e74/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "svip.high24-playback.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 10183,
+          "sample": "https://svip.high24-playback.com/20250314/20303_1b91d435/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "svip.high25-playback.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 9290,
+          "sample": "https://svip.high25-playback.com/20250314/21538_4f085579/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "svip.high26-playback.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 83,
+          "sample": "https://svip.high26-playback.com/20250404/3255_2067e265/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u7231\\u00b7\\u56de\\u5bb6\\u4e4b\\u5f00\\u5fc3\\u901f\\u9012"
+        },
+        "svip.yyzy-play.vip": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 11475,
+          "sample": "https://svip.yyzy-play.vip/20250314/28213_9e55eb45/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "v2.yzzy5-play.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8694,
+          "sample": "https://v2.yzzy5-play.com/20220418/5818_e1acea56/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "vip.play-cdn23.com": {
+          "first_seen": "2026-09-02 00:19:50",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 1,
+          "sample": "https://vip.play-cdn23.com/20240520/13495_e8258036/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u591c\\u8bbf\\u5438\\u8840\\u9b3c\\u7b2c\\u4e8c\\u5b63"
+        },
+        "vip.yzzy21-play.com": {
+          "first_seen": "2026-09-02 00:19:50",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 4,
+          "sample": "https://vip.yzzy21-play.com/20240601/35749_da4a0821/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u65b0\\u4e00\\u5e74\\u53c8\\u4e00\\u5e74"
+        },
+        "vip15.play-cdn15.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 11268,
+          "sample": "https://vip15.play-cdn15.com/20230329/4750_8b80fe6c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "vvip.high26-playback.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 9364,
+          "sample": "https://vvip.high26-playback.com/20250326/2455_31c9b2e7/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn10.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8426,
+          "sample": "https://yzzy.play-cdn10.com/20221208/17947_4a0cc4a0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn11.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 5772,
+          "sample": "https://yzzy.play-cdn11.com/20221101/2995_999e4d48/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u95f2\\u7740\\u5e72\\u561b\\u5462"
+        },
+        "yzzy.play-cdn12.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 6990,
+          "sample": "https://yzzy.play-cdn12.com/20221207/8644_d69384b9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn13.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8017,
+          "sample": "https://yzzy.play-cdn13.com/20230328/20971_186c6365/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn14.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 9357,
+          "sample": "https://yzzy.play-cdn14.com/20230328/16471_0e179cfb/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn17.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 7308,
+          "sample": "https://yzzy.play-cdn17.com/20230720/11747_44b07ed6/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u51b0\\u96ea\\u72d9\\u51fb"
+        },
+        "yzzy.play-cdn18.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 4480,
+          "sample": "https://yzzy.play-cdn18.com/20230815/7542_fd8c1068/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn19.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8920,
+          "sample": "https://yzzy.play-cdn19.com/20240131/18306_ab283c7e/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn2.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 7156,
+          "sample": "https://yzzy.play-cdn2.com/20220324/1208_7922fc7d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u66b4\\u8d70\\u8d22\\u795e"
+        },
+        "yzzy.play-cdn20.com": {
+          "first_seen": "2026-09-02 00:19:50",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 1,
+          "sample": "https://yzzy.play-cdn20.com/20240121/13721_2c16de4e/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u6625\\u98ce\\u6c89\\u9189\\u7684\\u591c\\u665a"
+        },
+        "yzzy.play-cdn3.com": {
+          "first_seen": "2026-08-31 19:22:44",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 6306,
+          "sample": "https://yzzy.play-cdn3.com/20220515/23826_016943b8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u7edd\\u4e16\\u6b66\\u9b42"
+        },
+        "yzzy.play-cdn4.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 10434,
+          "sample": "https://yzzy.play-cdn4.com/20220408/2_e0a7031f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn6.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8230,
+          "sample": "https://yzzy.play-cdn6.com/20220622/59_d6fadba2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn7.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8009,
+          "sample": "https://yzzy.play-cdn7.com/20220628/1158_3a02e346/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn8.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 9723,
+          "sample": "https://yzzy.play-cdn8.com/20220729/11657_3a1feeac/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy.play-cdn9.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 6884,
+          "sample": "https://yzzy.play-cdn9.com/20221207/21811_e7e3f385/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy1.play-cdn16.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 8528,
+          "sample": "https://yzzy1.play-cdn16.com/20230807/15668_a7a32681/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        },
+        "yzzy21.playback-speed.com": {
+          "first_seen": "2026-08-31 19:21:55",
+          "last_seen": "2026-09-02 00:19:50",
+          "hits": 13843,
+          "sample": "https://yzzy21.playback-speed.com/20250314/41960_6d3f70ca/index.m3u8",
+          "kind": "m3u8",
+          "vod": "\\u60ca\\u4eba\\u7684\\u661f\\u671f\\u516d"
+        }
+      }
+    },
+    "https://bfzyapi.com/api.php/provide/vod/": {
+      "last_scan": "2026-09-07 00:03:52",
+      "scans": 9,
+      "hosts": {
+        "bfeng10.com": {
+          "first_seen": "2026-09-07 00:03:52",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 48,
+          "sample": "https://bfeng10.com/video/haizeiwang/43821c552caa/index.m3u8",
+          "kind": "m3u8",
+          "vod": "海贼王"
+        },
+        "bfeng11.com": {
+          "first_seen": "2026-09-07 00:03:52",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 166,
+          "sample": "https://bfeng11.com/video/shijiezuiqianghouweimigongguodexinrentansuozhe/1fdbb2073cb2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "世界最强的后卫 ～迷宫国的新人探索者～"
+        },
+        "c1.ddbbffcdn.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 8568,
+          "sample": "https://c1.ddbbffcdn.com/video/maoxuewang/20240422/index.m3u8",
+          "kind": "m3u8",
+          "vod": "台湾第一等"
+        },
+        "c1.rrcdnbf2.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 3514,
+          "sample": "https://c1.rrcdnbf2.com/video/naliyoucaihonggaosuwo/第01集/index.m3u8",
+          "kind": "m3u8",
+          "vod": "海贼王"
+        },
+        "c1.rrcdnbf3.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 462,
+          "sample": "https://c1.rrcdnbf3.com/video/chuanqidierji/第01集/index.m3u8",
+          "kind": "m3u8",
+          "vod": "传奇第二季"
+        },
+        "c1.rrcdnbf4.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 2073,
+          "sample": "https://c1.rrcdnbf4.com/video/zongyidajihe/20221106期/index.m3u8",
+          "kind": "m3u8",
+          "vod": "台湾第一等"
+        },
+        "c1.rrcdnbf5.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 3837,
+          "sample": "https://c1.rrcdnbf5.com/video/maoxuewang/第20230403期/index.m3u8",
+          "kind": "m3u8",
+          "vod": "海贼王"
+        },
+        "c1.rrcdnbf6.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 6990,
+          "sample": "https://c1.rrcdnbf6.com/video/maoxuewang/第20230329期/index.m3u8",
+          "kind": "m3u8",
+          "vod": "海贼王"
+        },
+        "fengbao12.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 2139,
+          "sample": "https://fengbao12.com/video/yajituochaonenglizhanzheng/f0791e49a0d7/index.m3u8",
+          "kind": "m3u8",
+          "vod": "世界最强的后卫 ～迷宫国的新人探索者～"
+        },
+        "p.b8bf.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 117,
+          "sample": "https://p.b8bf.com/video/shuangmianjiemei/全集/index.m3u8",
+          "kind": "m3u8",
+          "vod": "梯田姐妹"
+        },
+        "p.bvvvvvvv7f.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 2071,
+          "sample": "https://p.bvvvvvvv7f.com/video/mingchukaleimu/第01集/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我叫张思德"
+        },
+        "p.bvvvvvvvvv1f.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 3238,
+          "sample": "https://p.bvvvvvvvvv1f.com/video/replace0001/20251201yqVBYPCGindex.m3u8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "海贼王"
+        },
+        "s1.bfllvip.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 3305,
+          "sample": "https://s1.bfllvip.com/video/wuzetianyueyu1984/dfc557a76957/index.m3u8",
+          "kind": "m3u8",
+          "vod": "拜托了冰箱2"
+        },
+        "s2.bfllvip.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 17265,
+          "sample": "https://s2.bfllvip.com/video/xiangqinjiunengbianqiangwoyouxiangqinxitong/df707bf0e5b8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "风暴战士奥钢"
+        },
+        "s3.bfllvip.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 1772,
+          "sample": "https://s3.bfllvip.com/video/zongyidajihe/530a6d7ef094/index.m3u8",
+          "kind": "m3u8",
+          "vod": "西甲联赛：赫塔菲VS巴塞罗那20260425"
+        },
+        "v.baofeng11.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-03 00:14:46",
+          "hits": 1494,
+          "sample": "https://v.baofeng11.com/video/moxuMAO/f1fa86aca9ce/index.m3u8",
+          "kind": "m3u8",
+          "vod": "不虐待我的继母与继姐"
+        },
+        "v.baofeng9.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 5157,
+          "sample": "https://v.baofeng9.com/video/moxuMAO/2c8deaadbc1d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "海贼王"
+        },
+        "v.fengbao10.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-03 00:14:46",
+          "hits": 3751,
+          "sample": "https://v.fengbao10.com/video/moxuMAO/a5b47c9b6eb3/index.m3u8",
+          "kind": "m3u8",
+          "vod": "小姐不熙娣"
+        },
+        "v.fengbao11.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-03 00:14:46",
+          "hits": 2935,
+          "sample": "https://v.fengbao11.com/video/moxuMAO/a00d24830f27/index.m3u8",
+          "kind": "m3u8",
+          "vod": "不虐待我的继母与继姐"
+        },
+        "v.fengbao8.com": {
+          "first_seen": "2026-08-31 13:40:00",
+          "last_seen": "2026-09-07 00:03:52",
+          "hits": 10781,
+          "sample": "https://v.fengbao8.com/video/genzhuoshubenqulvxing/20251201/index.m3u8",
+          "kind": "m3u8",
+          "vod": "海贼王"
+        }
+      }
+    },
+    "https://bycj.rytvapi.com/api.php/provide/vod/from/rym3u8/?ac=list": {
+      "last_scan": "2026-09-22 19:25:27",
+      "scans": 2,
+      "hosts": {}
+    },
+    "https://bycj.rytvapi.com/api.php/provide/vod/from/rym3u8/?ac=videolist": {
+      "last_scan": "2026-09-22 19:25:44",
+      "scans": 1,
+      "hosts": {
+        "cdn.ryplay10.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 104,
+          "sample": "https://cdn.ryplay10.com/20241002/23191_15a2be0b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "cdn.ryplay11.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 1263,
+          "sample": "https://cdn.ryplay11.com/20251214/191699_8ac86d38/index.m3u8",
+          "kind": "m3u8",
+          "vod": "男生女生向前冲"
+        },
+        "cdn.ryplay12.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 342,
+          "sample": "https://cdn.ryplay12.com/20260722/38689_6744bdd0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "​一念永恒完结季​"
+        },
+        "cdn1.ryplay1.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 59,
+          "sample": "https://cdn1.ryplay1.com/20240904/6452_05e8de20/index.m3u8",
+          "kind": "m3u8",
+          "vod": "浊水漂流"
+        },
+        "cdn4.ryplay4.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 32,
+          "sample": "https://cdn4.ryplay4.com/20240905/43445_85e0d5c6/index.m3u8",
+          "kind": "m3u8",
+          "vod": "SOS！超危职场人"
+        },
+        "cdn5.ryplay5.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 120,
+          "sample": "https://cdn5.ryplay5.com/20240916/21321_969b5968/index.m3u8",
+          "kind": "m3u8",
+          "vod": "一周的日记"
+        },
+        "cdn7.ryplay7.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 82,
+          "sample": "https://cdn7.ryplay7.com/20260725/18036_a183d5ac/index.m3u8",
+          "kind": "m3u8",
+          "vod": "夫妻的博弈粤语"
+        },
+        "cdn8.ryplay8.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 59,
+          "sample": "https://cdn8.ryplay8.com/20241203/16145_57cd205e/index.m3u8",
+          "kind": "m3u8",
+          "vod": "田柾国：我在这里"
+        },
+        "cdn9.ryplay9.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 60,
+          "sample": "https://cdn9.ryplay9.com/20240916/992_cdff69c6/index.m3u8",
+          "kind": "m3u8",
+          "vod": "大唐荣耀"
+        },
+        "svip.ryiplay18.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 94,
+          "sample": "https://svip.ryiplay18.com/20260414/4810_48756eae/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "svip.ryiplay19.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 38,
+          "sample": "https://svip.ryiplay19.com/20260726/5989_79585b69/index.m3u8",
+          "kind": "m3u8",
+          "vod": "新儿女英雄传[电影解说]"
+        },
+        "svip.ryiplay20.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 3,
+          "sample": "https://svip.ryiplay20.com/20260922/368_e335ac9d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "月亮宝石[电影解说]"
+        },
+        "svip.ryplay13.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 81,
+          "sample": "https://svip.ryplay13.com/20250525/52770_73f8d948/index.m3u8",
+          "kind": "m3u8",
+          "vod": "斯诺克 欧洲Q-School第一站Day3三号桌20250523"
+        },
+        "svip.ryplay14.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 91,
+          "sample": "https://svip.ryplay14.com/20260917/19443_7c9a1b6f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "交锋2026"
+        },
+        "svip.ryplay15.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 52,
+          "sample": "https://svip.ryplay15.com/20260125/15312_a880dd04/index.m3u8",
+          "kind": "m3u8",
+          "vod": "追魂米老鼠[电影解说]"
+        },
+        "svip.ryplay16.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 2888,
+          "sample": "https://svip.ryplay16.com/20260922/717580_12ffb057/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我告白的第十年"
+        },
+        "svip.ryplay17.com": {
+          "first_seen": "2026-09-22 19:25:44",
+          "last_seen": "2026-09-22 19:25:44",
+          "hits": 656,
+          "sample": "https://svip.ryplay17.com/20260708/18046_56576695/index.m3u8",
+          "kind": "m3u8",
+          "vod": "密室大逃脱第八季大神版"
+        }
+      }
+    },
+    "https://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/": {
+      "last_scan": "2026-09-22 21:33:14",
+      "scans": 3,
+      "hosts": {
+        "vip.dytt-broadcast.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 324,
+          "sample": "https://vip.dytt-broadcast.com/20251120/249806_fdafba40/index.m3u8",
+          "kind": "m3u8",
+          "vod": "绑定影子系统后，我成了校草的心尖宠"
+        },
+        "vip.dytt-cine.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 336,
+          "sample": "https://vip.dytt-cine.com/20250909/55395_8c7a1f68/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "vip.dytt-cinema.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 592,
+          "sample": "https://vip.dytt-cinema.com/20250218/5897_f9fd5ec4/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "vip.dytt-film.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 59,
+          "sample": "https://vip.dytt-film.com/20250312/12804_07a81d45/index.m3u8",
+          "kind": "m3u8",
+          "vod": "古惑仔之街头悍将"
+        },
+        "vip.dytt-hot.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 851,
+          "sample": "https://vip.dytt-hot.com/20250311/83502_c5c125cf/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "vip.dytt-kan.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 26,
+          "sample": "https://vip.dytt-kan.com/20260414/13531_e185111c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "vip.dytt-live.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 23,
+          "sample": "https://vip.dytt-live.com/20250506/5896_a914ecef/index.m3u8",
+          "kind": "m3u8",
+          "vod": "单情少年"
+        },
+        "vip.dytt-look.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 7049,
+          "sample": "https://vip.dytt-look.com/20250802/1055317_94ceaf70/index.m3u8",
+          "kind": "m3u8",
+          "vod": "萌宝神助攻：妈咪我找到爹地了"
+        },
+        "vip.dytt-love.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 232,
+          "sample": "https://vip.dytt-love.com/20250905/24679_07b4498a/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱的理想生活"
+        },
+        "vip.dytt-luck.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 2,
+          "sample": "https://vip.dytt-luck.com/20251108/27045_32cf59fa/index.m3u8",
+          "kind": "m3u8",
+          "vod": "男生女生向前冲"
+        },
+        "vip.dytt-movie.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 467,
+          "sample": "https://vip.dytt-movie.com/20250613/31748_144679b5/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我爱你，再见"
+        },
+        "vip.dytt-network.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 1,
+          "sample": "https://vip.dytt-network.com/20260922/39890_413e4eb3/index.m3u8",
+          "kind": "m3u8",
+          "vod": "头号粉丝"
+        },
+        "vip.dytt-see.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 357,
+          "sample": "https://vip.dytt-see.com/20260316/31241_290f3bc8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "神兽金刚2：天神地兽"
+        },
+        "vip.dytt-tv.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 186,
+          "sample": "https://vip.dytt-tv.com/20250525/16826_f1248ade/index.m3u8",
+          "kind": "m3u8",
+          "vod": "雪山飞狐粤语1985"
+        },
+        "vip.dytt-tvb.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 363,
+          "sample": "https://vip.dytt-tvb.com/20250905/31309_60d9dfb1/index.m3u8",
+          "kind": "m3u8",
+          "vod": "乔家的儿女"
+        },
+        "vip.dytt-tvs.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 974,
+          "sample": "https://vip.dytt-tvs.com/20260907/36046_6db634ac/index.m3u8",
+          "kind": "m3u8",
+          "vod": "死有对证国语"
+        },
+        "vip.dytt-video.com": {
+          "first_seen": "2026-09-22 21:33:14",
+          "last_seen": "2026-09-22 21:33:14",
+          "hits": 20,
+          "sample": "https://vip.dytt-video.com/20250119/1_c4ca4238/index.m3u8",
+          "kind": "m3u8",
+          "vod": "大冬瓜国语"
+        }
+      }
+    },
+    "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/list": {
+      "last_scan": "2026-09-01 23:02:42",
+      "scans": 1,
+      "hosts": {
+        "vip.dytt-broadcast.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 115722,
+          "sample": "https://vip.dytt-broadcast.com/20251204/298833_5fedf3e4/index.m3u8",
+          "kind": "m3u8",
+          "vod": "第72页的偷恋"
+        },
+        "vip.dytt-cine.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 21581,
+          "sample": "https://vip.dytt-cine.com/20250902/54586_b2811dbd/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美食新闻报道"
+        },
+        "vip.dytt-cinema.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 16484,
+          "sample": "https://vip.dytt-cinema.com/20250224/11555_ad6fff7b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美食新闻报道"
+        },
+        "vip.dytt-film.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 8052,
+          "sample": "https://vip.dytt-film.com/20250205/4753_dfc6aa24/index.m3u8",
+          "kind": "m3u8",
+          "vod": "笔仙咒怨"
+        },
+        "vip.dytt-hot.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 32288,
+          "sample": "https://vip.dytt-hot.com/20250309/83021_8bf82cdc/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美食新闻报道"
+        },
+        "vip.dytt-kan.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 4809,
+          "sample": "https://vip.dytt-kan.com/20260325/12745_50784df4/index.m3u8",
+          "kind": "m3u8",
+          "vod": "豆腐妈妈"
+        },
+        "vip.dytt-live.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 6490,
+          "sample": "https://vip.dytt-live.com/20250518/6854_2ba25201/index.m3u8",
+          "kind": "m3u8",
+          "vod": "间谍2013"
+        },
+        "vip.dytt-look.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 422927,
+          "sample": "https://vip.dytt-look.com/20250914/1184832_440561f7/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我在鲁源村捡了个状元"
+        },
+        "vip.dytt-love.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 22563,
+          "sample": "https://vip.dytt-love.com/20251202/60719_0dc6f051/index.m3u8",
+          "kind": "m3u8",
+          "vod": "风云年代"
+        },
+        "vip.dytt-luck.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 8880,
+          "sample": "https://vip.dytt-luck.com/20250901/20019_80ce4326/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美食新闻报道"
+        },
+        "vip.dytt-movie.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 10633,
+          "sample": "https://vip.dytt-movie.com/20250618/33876_3de78319/index.m3u8",
+          "kind": "m3u8",
+          "vod": "一粒红尘"
+        },
+        "vip.dytt-movies.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 13619,
+          "sample": "https://vip.dytt-movies.com/20250207/1_c4ca4238/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "vip.dytt-music.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 13360,
+          "sample": "https://vip.dytt-music.com/20250330/32933_d82cc168/index.m3u8",
+          "kind": "m3u8",
+          "vod": "女神降临2020"
+        },
+        "vip.dytt-network.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 12731,
+          "sample": "https://vip.dytt-network.com/20260626/36054_32481e9d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "与你相恋到生命尽头"
+        },
+        "vip.dytt-play.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 11575,
+          "sample": "https://vip.dytt-play.com/20250531/24795_aba0ef6b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "神犬小七第二季"
+        },
+        "vip.dytt-see.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 14268,
+          "sample": "https://vip.dytt-see.com/20260325/31365_f5ca5e77/index.m3u8",
+          "kind": "m3u8",
+          "vod": "豆腐妈妈"
+        },
+        "vip.dytt-tv.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 14808,
+          "sample": "https://vip.dytt-tv.com/20250623/23876_2bb5f2f1/index.m3u8",
+          "kind": "m3u8",
+          "vod": "诈欺游戏"
+        },
+        "vip.dytt-tvb.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 20612,
+          "sample": "https://vip.dytt-tvb.com/20251112/62209_40efa14d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "天下长河"
+        },
+        "vip.dytt-tvs.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 11419,
+          "sample": "https://vip.dytt-tvs.com/20260326/14278_4129304d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "豆腐妈妈"
+        },
+        "vip.dytt-video.com": {
+          "first_seen": "2026-09-01 23:02:42",
+          "last_seen": "2026-09-01 23:02:42",
+          "hits": 9689,
+          "sample": "https://vip.dytt-video.com/20250206/7702_8fc4bc38/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        }
+      }
+    },
+    "https://caiji.xgzyapi.com/api.php/provide/vod/at/list": {
+      "last_scan": "2026-09-05 18:06:54",
+      "scans": 1,
+      "hosts": {
+        "svip.xgplay1.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 508,
+          "sample": "https://svip.xgplay1.com/2025-03-06/19616_dMyNYtWJZ_zrNp282X/index.m3u8",
+          "kind": "m3u8",
+          "vod": "摩登家庭第十季"
+        },
+        "svip.xgplay10.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 308,
+          "sample": "https://svip.xgplay10.com/2025-09-10/33885_jWK9O1HjInnPhTjHCi/index.m3u8",
+          "kind": "m3u8",
+          "vod": "青云志2"
+        },
+        "svip.xgplay11.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 246,
+          "sample": "https://svip.xgplay11.com/2025-09-10/26932_XbNV4WIMdhSuSXoWet/index.m3u8",
+          "kind": "m3u8",
+          "vod": "怒火英雄"
+        },
+        "svip.xgplay12.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 152,
+          "sample": "https://svip.xgplay12.com/2025-04-15/7807_VPio2pNtNe1IB2jy-U/index.m3u8",
+          "kind": "m3u8",
+          "vod": "传奇大掌柜"
+        },
+        "svip.xgplay13.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 224,
+          "sample": "https://svip.xgplay13.com/2025-10-06/36466_ST2jqdrwg8so91xGKK/index.m3u8",
+          "kind": "m3u8",
+          "vod": "胖子、爱情和错误！"
+        },
+        "svip.xgplay14.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 516,
+          "sample": "https://svip.xgplay14.com/2025-07-25/12682_QoCeoJDmF5ZpBXi7x9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "监狱纪实第一季"
+        },
+        "svip.xgplay15.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 1002,
+          "sample": "https://svip.xgplay15.com/2026-01-06/66494_CaSW8FcHFF4mgxRkwH/index.m3u8",
+          "kind": "m3u8",
+          "vod": "血腥老虎：冲突开始"
+        },
+        "svip.xgplay16.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 1174,
+          "sample": "https://svip.xgplay16.com/2025-02-20/13285_3jUUehJh_1janmhM4N/index.m3u8",
+          "kind": "m3u8",
+          "vod": "都市女孩第二季"
+        },
+        "svip.xgplay17.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 768,
+          "sample": "https://svip.xgplay17.com/2026-09-05/38248_mOuBleatZzlZYgv3fb/index.m3u8",
+          "kind": "m3u8",
+          "vod": "深渊之上"
+        },
+        "svip.xgplay18.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 100,
+          "sample": "https://svip.xgplay18.com/2026-04-04/15292_nClxDLTjt_ijHWgqDz/index.m3u8",
+          "kind": "m3u8",
+          "vod": "轻松熊"
+        },
+        "svip.xgplay19.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 5014,
+          "sample": "https://svip.xgplay19.com/2025-09-29/59074_tKvhRlKfIp4IAkExiZ/index.m3u8",
+          "kind": "m3u8",
+          "vod": "萌宝福星"
+        },
+        "svip.xgplay2.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 24,
+          "sample": "https://svip.xgplay2.com/2025-04-15/31043_DIxjIStTyMZCrXZSMK/index.m3u8",
+          "kind": "m3u8",
+          "vod": "方舟一号第一季"
+        },
+        "svip.xgplay20.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 380,
+          "sample": "https://svip.xgplay20.com/2026-08-26/46520_s8upxk0_yl0mpHfcUW/index.m3u8",
+          "kind": "m3u8",
+          "vod": "早春晴朗"
+        },
+        "svip.xgplay21.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 130,
+          "sample": "https://svip.xgplay21.com/2026-03-25/31365_MHwtSx3M5RsvMk4r10/index.m3u8",
+          "kind": "m3u8",
+          "vod": "豆腐妈妈"
+        },
+        "svip.xgplay3.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 402,
+          "sample": "https://svip.xgplay3.com/2025-06-19/20869_kfKsPEot4Y_CB093FD/index.m3u8",
+          "kind": "m3u8",
+          "vod": "科搜研之女第18季"
+        },
+        "svip.xgplay4.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 126,
+          "sample": "https://svip.xgplay4.com/2025-05-30/91700_5fAI10_hgY-Dz3hlAg/index.m3u8",
+          "kind": "m3u8",
+          "vod": "旧爱重燃"
+        },
+        "svip.xgplay5.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 688,
+          "sample": "https://svip.xgplay5.com/2025-06-18/31819_gpKSFEy2v6Kd6hLeHe/index.m3u8",
+          "kind": "m3u8",
+          "vod": "六指琴魔2003"
+        },
+        "svip.xgplay6.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 470,
+          "sample": "https://svip.xgplay6.com/2025-04-15/11617_62YrcHZzOzetTiaysQ/index.m3u8",
+          "kind": "m3u8",
+          "vod": "木府风云"
+        },
+        "svip.xgplay7.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 9400,
+          "sample": "https://svip.xgplay7.com/2025-01-27/58084_nSkfm0xRVGqE8TFjvp/index.m3u8",
+          "kind": "m3u8",
+          "vod": "你惹她干嘛"
+        },
+        "svip.xgplay9.com": {
+          "first_seen": "2026-09-05 18:06:54",
+          "last_seen": "2026-09-05 18:06:54",
+          "hits": 22,
+          "sample": "https://svip.xgplay9.com/2025-04-15/4108_uENuU2RA5G29oDzl7h/index.m3u8",
+          "kind": "m3u8",
+          "vod": "女孩"
+        }
+      }
+    },
+    "https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/": {
+      "last_scan": "2026-09-22 21:26:29",
+      "scans": 1,
+      "hosts": {}
+    },
+    "https://caiji.xgzyapi.com/api.php/provide/vod/from/xgm3u8/at/list": {
+      "last_scan": "2026-09-01 23:23:40",
+      "scans": 1,
+      "hosts": {}
+    },
+    "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/list": {
+      "last_scan": "2026-09-01 23:25:28",
+      "scans": 1,
+      "hosts": {
+        "svip.xgplay1.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 13360,
+          "sample": "https://svip.xgplay1.com/2025-01-29/3729_ftzcBzBem4sHWNRW7z/index.m3u8",
+          "kind": "m3u8",
+          "vod": "创世纪1：地产风云国语"
+        },
+        "svip.xgplay10.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 22370,
+          "sample": "https://svip.xgplay10.com/2025-11-10/62054_tmtg6XcqUDcYJgnZ32/index.m3u8",
+          "kind": "m3u8",
+          "vod": "与君歌"
+        },
+        "svip.xgplay11.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 19335,
+          "sample": "https://svip.xgplay11.com/2025-08-26/19943_mzry1e0TMBaluU_nQK/index.m3u8",
+          "kind": "m3u8",
+          "vod": "斗破苍穹之少年归来"
+        },
+        "svip.xgplay12.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 14557,
+          "sample": "https://svip.xgplay12.com/2025-09-15/44256_oCZ7SzV8Mr4upIJ_7Z/index.m3u8",
+          "kind": "m3u8",
+          "vod": "饥饿游戏（台综）"
+        },
+        "svip.xgplay13.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 15575,
+          "sample": "https://svip.xgplay13.com/2025-02-18/5897__Svk55ZmFeeHHIcJxn/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "svip.xgplay14.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 8329,
+          "sample": "https://svip.xgplay14.com/2025-09-06/22285_GzhD1PFqZdl5-JV7w8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "全民神祗：我献祭亿万生灵成神动态漫画"
+        },
+        "svip.xgplay15.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 21799,
+          "sample": "https://svip.xgplay15.com/2025-09-09/55395_ACtSncyjcrZXRio2WG/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "svip.xgplay16.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 7719,
+          "sample": "https://svip.xgplay16.com/2026-05-08/26577_IoChCz_2_r_U00GqHm/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱在是隆"
+        },
+        "svip.xgplay17.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 9355,
+          "sample": "https://svip.xgplay17.com/2026-07-14/31404_vzfEzJKvxzzfJiA6xX/index.m3u8",
+          "kind": "m3u8",
+          "vod": "新攻壳机动队"
+        },
+        "svip.xgplay18.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 6165,
+          "sample": "https://svip.xgplay18.com/2026-03-17/13208_M92dJ2aUCZdy0gfr0d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "svip.xgplay19.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 207700,
+          "sample": "https://svip.xgplay19.com/2026-08-31/820941_dVDjlZ0S5K4cChvzw9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "谁说没灵根不能修仙的？之无灵证道第八季"
+        },
+        "svip.xgplay2.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 13884,
+          "sample": "https://svip.xgplay2.com/2025-03-23/19810_LW7ededR55qQRJl_eJ/index.m3u8",
+          "kind": "m3u8",
+          "vod": "酒鬼都市女人们"
+        },
+        "svip.xgplay20.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 11253,
+          "sample": "https://svip.xgplay20.com/2026-07-07/42134_Yi8i7xejLbfcVtyrLf/index.m3u8",
+          "kind": "m3u8",
+          "vod": "新攻壳机动队"
+        },
+        "svip.xgplay21.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 11393,
+          "sample": "https://svip.xgplay21.com/2025-09-05/1380_K_UAYOfNAPRfXgOaju/index.m3u8",
+          "kind": "m3u8",
+          "vod": "掌门低调点动态漫画第3季"
+        },
+        "svip.xgplay3.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 7379,
+          "sample": "https://svip.xgplay3.com/2025-02-17/7373_gYG5NLmZEFUXWr7dzT/index.m3u8",
+          "kind": "m3u8",
+          "vod": "暮色大电影"
+        },
+        "svip.xgplay4.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 31446,
+          "sample": "https://svip.xgplay4.com/2025-03-11/83502_PbUWGUqeViyN-k8Qvv/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "svip.xgplay5.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 13140,
+          "sample": "https://svip.xgplay5.com/2025-03-07/6109_486rAbUyim2h9-blll/index.m3u8",
+          "kind": "m3u8",
+          "vod": "东北插班生"
+        },
+        "svip.xgplay6.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 12375,
+          "sample": "https://svip.xgplay6.com/2025-05-06/17256_wFUBO30Gqqq9IpA5qW/index.m3u8",
+          "kind": "m3u8",
+          "vod": "天网行动2019"
+        },
+        "svip.xgplay7.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 397887,
+          "sample": "https://svip.xgplay7.com/2025-01-16/2894_-wgX-Kj6p8i8O3_Q8b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "乱世悲歌"
+        },
+        "svip.xgplay9.com": {
+          "first_seen": "2026-09-01 23:25:28",
+          "last_seen": "2026-09-01 23:25:28",
+          "hits": 8100,
+          "sample": "https://svip.xgplay9.com/2025-09-09/21122_clu8LGJmlQEVkr9o-S/index.m3u8",
+          "kind": "m3u8",
+          "vod": "2024青春芒果节"
+        }
+      }
+    },
+    "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/list": {
+      "last_scan": "2026-09-05 18:07:30",
+      "scans": 2,
+      "hosts": {
+        "b.lzfile32.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 36,
+          "sample": "https://b.lzfile32.com/20260124/326_bf81c697/index.m3u8",
+          "kind": "m3u8",
+          "vod": "太平年"
+        },
+        "cdn.ryplay11.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 1,
+          "sample": "https://cdn.ryplay11.com/20241009/2358_bf198306/index.m3u8",
+          "kind": "m3u8",
+          "vod": "恰好去远方"
+        },
+        "cdn8.ryplay8.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 2,
+          "sample": "https://cdn8.ryplay8.com/20241026/14601_8602aac0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "将错"
+        },
+        "dow.dowlz18.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 1,
+          "sample": "https://dow.dowlz18.com/20240530/13275_3a0d26b0/高压电2003.mp4",
+          "kind": "page",
+          "vod": "高压电2003[电影解说]"
+        },
+        "dow.dowlz8.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 4,
+          "sample": "https://dow.dowlz8.com/20221119/46212_2dd1734d/夜车.mp4",
+          "kind": "page",
+          "vod": "夜车[电影解说]"
+        },
+        "hd.lz-cdn18.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 841,
+          "sample": "https://hd.lz-cdn18.com/20230206/389_af944dd2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "lzcdn33v1.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 7038,
+          "sample": "https://lzcdn33v1.com/20260816/29761_ed591744/index.m3u8",
+          "kind": "m3u8",
+          "vod": "仙界归来，绝美师尊成了我老婆"
+        },
+        "lzv34.com": {
+          "first_seen": "2026-09-05 18:07:30",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 10,
+          "sample": "https://lzv34.com/20260901/4882_9aad6eb8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "后妃成长记之深宫茶美人"
+        },
+        "v.cdnlz11.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 609,
+          "sample": "https://v.cdnlz11.com/20220619/8755_b6643787/index.m3u8",
+          "kind": "m3u8",
+          "vod": "巨星总动员"
+        },
+        "v.cdnlz12.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2422,
+          "sample": "https://v.cdnlz12.com/20220628/370_e881cce2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "法式火锅"
+        },
+        "v.cdnlz13.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2424,
+          "sample": "https://v.cdnlz13.com/20230905/17316_d6ab7b12/index.m3u8",
+          "kind": "m3u8",
+          "vod": "开学课代表第二季"
+        },
+        "v.cdnlz14.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 1828,
+          "sample": "https://v.cdnlz14.com/20230902/28973_82395452/index.m3u8",
+          "kind": "m3u8",
+          "vod": "铁腕毒权"
+        },
+        "v.cdnlz16.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 240,
+          "sample": "https://v.cdnlz16.com/20230914/38921_4c2c8edd/index.m3u8",
+          "kind": "m3u8",
+          "vod": "猎豺狼"
+        },
+        "v.cdnlz17.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 16893,
+          "sample": "https://v.cdnlz17.com/20240206/109703_a682d7e4/index.m3u8",
+          "kind": "m3u8",
+          "vod": "公立海老栖川高校天闷部"
+        },
+        "v.cdnlz18.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 3136,
+          "sample": "https://v.cdnlz18.com/20240530/13265_47778c19/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美食新闻报道"
+        },
+        "v.cdnlz19.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 8274,
+          "sample": "https://v.cdnlz19.com/20240907/43706_e80cce54/index.m3u8",
+          "kind": "m3u8",
+          "vod": "孤岛飞鹰"
+        },
+        "v.cdnlz2.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 728,
+          "sample": "https://v.cdnlz2.com/20230919/26272_ec613c6b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "霸刀"
+        },
+        "v.cdnlz20.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 3441,
+          "sample": "https://v.cdnlz20.com/20241120/20956_5e27679f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "流星花园第二部"
+        },
+        "v.cdnlz21.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 4713,
+          "sample": "https://v.cdnlz21.com/20241230/3507_b025cc6a/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美食新闻报道"
+        },
+        "v.cdnlz22.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 5850,
+          "sample": "https://v.cdnlz22.com/20240518/53_82f329ac/index.m3u8",
+          "kind": "m3u8",
+          "vod": "诸界末日在线动态漫"
+        },
+        "v.cdnlz29.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 86578,
+          "sample": "https://v.cdnlz29.com/20260405/413743_e187d372/index.m3u8",
+          "kind": "m3u8",
+          "vod": "下山应劫老婆全家偷听我心声"
+        },
+        "v.cdnlz3.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 1688,
+          "sample": "https://v.cdnlz3.com/20230904/21638_d4ee26fc/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "v.cdnlz30.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 94615,
+          "sample": "https://v.cdnlz30.com/20260317/446744_1cb96f44/index.m3u8",
+          "kind": "m3u8",
+          "vod": "老大，外面全是跟你的兄弟"
+        },
+        "v.cdnlz4.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 140,
+          "sample": "https://v.cdnlz4.com/20231231/26455_777ee5f8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "难忘的一年：夏天"
+        },
+        "v.cdnlz7.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 811,
+          "sample": "https://v.cdnlz7.com/20240320/16368_40b29948/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.cdnlz9.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 1280,
+          "sample": "https://v.cdnlz9.com/20230919/18885_d2dac4db/index.m3u8",
+          "kind": "m3u8",
+          "vod": "锦衣神匠"
+        },
+        "v.lfthirtytwo.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2189,
+          "sample": "https://v.lfthirtytwo.com/20260325/3356_0a87b561/index.m3u8",
+          "kind": "m3u8",
+          "vod": "请对我说谎"
+        },
+        "v.lz15uu.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2544,
+          "sample": "https://v.lz15uu.com/20260830/17507_41a89e4e/index.m3u8",
+          "kind": "m3u8",
+          "vod": "月光光心慌慌6[电影解说]"
+        },
+        "v.lzcdn23.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2674,
+          "sample": "https://v.lzcdn23.com/20240607/165_ce7e6371/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美食新闻报道"
+        },
+        "v.lzcdn24.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 18379,
+          "sample": "https://v.lzcdn24.com/20250909/81334_ed7fcbd6/index.m3u8",
+          "kind": "m3u8",
+          "vod": "她带着火回来"
+        },
+        "v.lzcdn25.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2287,
+          "sample": "https://v.lzcdn25.com/20250607/758_66f0da32/index.m3u8",
+          "kind": "m3u8",
+          "vod": "轻年"
+        },
+        "v.lzcdn26.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 4516,
+          "sample": "https://v.lzcdn26.com/20250805/25735_7d608c3d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "一个近乎正常的家庭"
+        },
+        "v.lzcdn27.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2923,
+          "sample": "https://v.lzcdn27.com/20260702/12401_2f648755/index.m3u8",
+          "kind": "m3u8",
+          "vod": "请对我说谎"
+        },
+        "v.lzcdn28.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 3756,
+          "sample": "https://v.lzcdn28.com/20251125/5015_159e7634/index.m3u8",
+          "kind": "m3u8",
+          "vod": "说唱巅峰对决2026"
+        },
+        "v.lzcdn31.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 1893,
+          "sample": "https://v.lzcdn31.com/20260706/8072_b9ea9513/index.m3u8",
+          "kind": "m3u8",
+          "vod": "深渊之上"
+        },
+        "v.lzcdn32.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 83,
+          "sample": "https://v.lzcdn32.com/20260119/101_25ba81e6/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "v.lzcdn34.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 895,
+          "sample": "https://v.lzcdn34.com/20260827/4348_589fbe1a/index.m3u8",
+          "kind": "m3u8",
+          "vod": "农女带着家人致富第八季"
+        },
+        "v.lzfile26.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 43424,
+          "sample": "https://v.lzfile26.com/20251027/221358_4a8d63da/index.m3u8",
+          "kind": "m3u8",
+          "vod": "下山即巅峰：七个师姐超护短"
+        },
+        "v1.cdnlz1.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 357,
+          "sample": "https://v1.cdnlz1.com/20230915/22134_61937e3f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "猎罪者"
+        },
+        "v1.lzcdn32.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 15,
+          "sample": "https://v1.lzcdn32.com/20260123/275_94e3e716/index.m3u8",
+          "kind": "m3u8",
+          "vod": "非常检控观国语"
+        },
+        "vip.lz-cdn11.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 4551,
+          "sample": "https://vip.lz-cdn11.com/20220721/9510_729f218c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "汤姆·帕帕：非凡之日"
+        },
+        "vip.lz-cdn12.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 2678,
+          "sample": "https://vip.lz-cdn12.com/20220623/254_6af0ee06/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "vip.lz-cdn13.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2098,
+          "sample": "https://vip.lz-cdn13.com/20230801/15714_8a4e0033/index.m3u8",
+          "kind": "m3u8",
+          "vod": "开学课代表第二季"
+        },
+        "vip.lz-cdn14.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 5109,
+          "sample": "https://vip.lz-cdn14.com/20230221/19280_9f1b989b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "宝可梦 旅途"
+        },
+        "vip.lz-cdn16.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 4602,
+          "sample": "https://vip.lz-cdn16.com/20230420/18192_8905191f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "的士速递5国语"
+        },
+        "vip.lz-cdn17.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 3943,
+          "sample": "https://vip.lz-cdn17.com/20230414/8330_01c7deb2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "最弱无败的神装机龙"
+        },
+        "vip.lz-cdn2.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 60,
+          "sample": "https://vip.lz-cdn2.com/20220621/13118_1e8149f2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "鹤唳华亭"
+        },
+        "vip.lz-cdn3.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 3826,
+          "sample": "https://vip.lz-cdn3.com/20220622/8251_4931df91/index.m3u8",
+          "kind": "m3u8",
+          "vod": "家族荣誉5： 家门的归还"
+        },
+        "vip.lz-cdn4.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 4394,
+          "sample": "https://vip.lz-cdn4.com/20220609/14125_e3aa4c6d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "男人的故事"
+        },
+        "vip.lz-cdn5.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 1,
+          "sample": "https://vip.lz-cdn5.com/20230416/50067_546e0702/index.m3u8",
+          "kind": "m3u8",
+          "vod": "种地吧"
+        },
+        "vip.lz-cdn9.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 3142,
+          "sample": "https://vip.lz-cdn9.com/20230218/17135_8f8356ff/index.m3u8",
+          "kind": "m3u8",
+          "vod": "歌舞青春：音乐剧集第四季"
+        },
+        "vip.lz15uu.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 195,
+          "sample": "https://vip.lz15uu.com/20221208/695_dfdf0e6d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "善良的嫂子：火热的诱惑"
+        },
+        "vip.lzcdn10.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 3145,
+          "sample": "https://vip.lzcdn10.com/20230719/15219_6a6219f9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "卫宫家今天的饭[电影解说]"
+        },
+        "vip.lzcdn2.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 4009,
+          "sample": "https://vip.lzcdn2.com/20220609/9869_0e66a189/index.m3u8",
+          "kind": "m3u8",
+          "vod": "信仰2022"
+        },
+        "vip1.lz-cdn.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 5029,
+          "sample": "https://vip1.lz-cdn.com/20221113/37845_4e29ab35/index.m3u8",
+          "kind": "m3u8",
+          "vod": "名侦探柯南：第十四个目标"
+        },
+        "vip1.lz-cdn1.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 3599,
+          "sample": "https://vip1.lz-cdn1.com/20220608/8101_bcf18cc5/index.m3u8",
+          "kind": "m3u8",
+          "vod": "信仰2022"
+        },
+        "vip1.lz-cdn5.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 8945,
+          "sample": "https://vip1.lz-cdn5.com/20230413/49814_413d04fa/index.m3u8",
+          "kind": "m3u8",
+          "vod": "汤摇庄的幽奈同学OVA"
+        },
+        "vip1.lz-cdn6.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 6797,
+          "sample": "https://vip1.lz-cdn6.com/20221206/34816_29622d67/index.m3u8",
+          "kind": "m3u8",
+          "vod": "真相2021"
+        },
+        "vip1.lz-cdn7.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-05 18:07:30",
+          "hits": 2615,
+          "sample": "https://vip1.lz-cdn7.com/20220629/4469_82615c12/index.m3u8",
+          "kind": "m3u8",
+          "vod": "信仰2022"
+        },
+        "vip1.lz-cdn8.com": {
+          "first_seen": "2026-09-01 23:33:58",
+          "last_seen": "2026-09-01 23:33:58",
+          "hits": 4917,
+          "sample": "https://vip1.lz-cdn8.com/20221128/32177_bd24b86f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "少年杨家将"
+        }
+      }
+    },
+    "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/": {
+      "last_scan": "2026-09-01 23:30:05",
+      "scans": 5,
+      "hosts": {
+        "antonioreis.blogspot.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2,
+          "sample": "http://antonioreis.blogspot.com/",
+          "kind": "page",
+          "vod": "Jaime"
+        },
+        "b.lzfile32.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 36,
+          "sample": "https://b.lzfile32.com/20260124/326_bf81c697/index.m3u8",
+          "kind": "m3u8",
+          "vod": "太平年"
+        },
+        "bc.cinema.com.hk": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://bc.cinema.com.hk/adhoc/alain-web/m9.html",
+          "kind": "page",
+          "vod": "大黎明"
+        },
+        "blog.sina.com.cn": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://blog.sina.com.cn/s/blog_6ac8791601015jxy.html",
+          "kind": "page",
+          "vod": "日落湄南河"
+        },
+        "cdn.ryplay11.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://cdn.ryplay11.com/20241009/2358_bf198306/index.m3u8",
+          "kind": "m3u8",
+          "vod": "恰好去远方"
+        },
+        "cdn8.ryplay8.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2,
+          "sample": "https://cdn8.ryplay8.com/20241026/14601_8602aac0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "将错"
+        },
+        "cphdox.dk": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://cphdox.dk/film/victimsuspect/",
+          "kind": "page",
+          "vod": "受害者/嫌疑人[电影解说]"
+        },
+        "db.nipponconnection.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://db.nipponconnection.com/en/event/1367/spring-in-between",
+          "kind": "page",
+          "vod": "夹缝中活着，小春"
+        },
+        "dow.dowlz15.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-08-31 13:42:54",
+          "hits": 2,
+          "sample": "https://dow.dowlz15.com/20240306/10758_52837eb5/意甲",
+          "kind": "page",
+          "vod": "意甲 国际米兰vs热那亚20240305"
+        },
+        "dow.dowlz18.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://dow.dowlz18.com/20240530/13275_3a0d26b0/高压电2003.mp4",
+          "kind": "page",
+          "vod": "高压电2003[电影解说]"
+        },
+        "dow.dowlz6.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://dow.dowlz6.com/20230511/23289_7cd1ca87/断林镇谜案.S09E01.mp4",
+          "kind": "page",
+          "vod": "断林镇谜案第九季"
+        },
+        "dow.dowlz8.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4,
+          "sample": "https://dow.dowlz8.com/20221119/46212_2dd1734d/夜车.mp4",
+          "kind": "page",
+          "vod": "夜车[电影解说]"
+        },
+        "fantasporto.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://fantasporto.com/en/tokyo-revengers-2-part-2/",
+          "kind": "page",
+          "vod": "东京复仇者2 血腥万圣节篇-决战 -[电影解说]"
+        },
+        "festival.sundance.org": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2,
+          "sample": "https://festival.sundance.org/program/film/638a15efd406b2ef21f2c63d",
+          "kind": "page",
+          "vod": "花式舞蹈"
+        },
+        "hd.lz-cdn18.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 877,
+          "sample": "https://hd.lz-cdn18.com/20230501/2194_a394ca79/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "iffr.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2,
+          "sample": "https://iffr.com/en/iffr/2024/films/dear-kaita-ablaze",
+          "kind": "page",
+          "vod": "燃烧的槐多啊"
+        },
+        "lzcdn33v1.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 7107,
+          "sample": "https://lzcdn33v1.com/20260718/25248_3c70f02f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "谁说没灵根不能修仙的？之无灵证道第六季"
+        },
+        "poff.ee": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3,
+          "sample": "https://poff.ee/en/film/amelias-children/",
+          "kind": "page",
+          "vod": "艾米利亚的孩子"
+        },
+        "svip.ryplay17.com": {
+          "first_seen": "2026-08-31 19:26:31",
+          "last_seen": "2026-08-31 19:26:31",
+          "hits": 1,
+          "sample": "https://svip.ryplay17.com/20250910/5246_2ad89bdf/index.m3u8",
+          "kind": "m3u8",
+          "vod": "美凤有约"
+        },
+        "v.cdnlz11.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 651,
+          "sample": "https://v.cdnlz11.com/20231121/18360_97c89d99/index.m3u8",
+          "kind": "m3u8",
+          "vod": "小姐不熙娣"
+        },
+        "v.cdnlz12.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2891,
+          "sample": "https://v.cdnlz12.com/20250126/18172_85f64b76/index.m3u8",
+          "kind": "m3u8",
+          "vod": "小姐不熙娣"
+        },
+        "v.cdnlz13.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2845,
+          "sample": "https://v.cdnlz13.com/20230904/17289_2413672d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.cdnlz14.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2090,
+          "sample": "https://v.cdnlz14.com/20240204/34463_48766b59/index.m3u8",
+          "kind": "m3u8",
+          "vod": "炼气十万年"
+        },
+        "v.cdnlz16.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 320,
+          "sample": "https://v.cdnlz16.com/20230915/39008_4e8c316a/index.m3u8",
+          "kind": "m3u8",
+          "vod": "猎豺狼"
+        },
+        "v.cdnlz17.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 17351,
+          "sample": "https://v.cdnlz17.com/20231119/62692_23acd270/index.m3u8",
+          "kind": "m3u8",
+          "vod": "公立海老栖川高校天闷部"
+        },
+        "v.cdnlz18.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3755,
+          "sample": "https://v.cdnlz18.com/20231211/7911_f4629ff0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.cdnlz19.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 8880,
+          "sample": "https://v.cdnlz19.com/20240818/41220_2a672117/index.m3u8",
+          "kind": "m3u8",
+          "vod": "孤岛飞鹰"
+        },
+        "v.cdnlz2.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 953,
+          "sample": "https://v.cdnlz2.com/20231120/26878_9115a48c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "v.cdnlz20.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4243,
+          "sample": "https://v.cdnlz20.com/20241118/20528_dec10f5d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "流星花园第二部"
+        },
+        "v.cdnlz21.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 5486,
+          "sample": "https://v.cdnlz21.com/20250106/3828_30f3a6a5/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.cdnlz22.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 6297,
+          "sample": "https://v.cdnlz22.com/20250724/20258_b6fc4cdc/index.m3u8",
+          "kind": "m3u8",
+          "vod": "炼气十万年"
+        },
+        "v.cdnlz29.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 92385,
+          "sample": "https://v.cdnlz29.com/20260318/330097_5ca7a484/index.m3u8",
+          "kind": "m3u8",
+          "vod": "八零：被丈母娘全家团宠"
+        },
+        "v.cdnlz3.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1930,
+          "sample": "https://v.cdnlz3.com/20250126/32863_56a79a8c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "v.cdnlz30.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 104693,
+          "sample": "https://v.cdnlz30.com/20260105/399630_e81aca2b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "失忆后大佬前夫追着宠"
+        },
+        "v.cdnlz4.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 156,
+          "sample": "https://v.cdnlz4.com/20231121/26160_5eeab8e8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.cdnlz7.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1037,
+          "sample": "https://v.cdnlz7.com/20240324/16529_f0810841/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.cdnlz9.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1411,
+          "sample": "https://v.cdnlz9.com/20240414/22933_3c56f6e2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "炼气十万年"
+        },
+        "v.lfthirtytwo.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2351,
+          "sample": "https://v.lfthirtytwo.com/20260708/8492_1011287c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "豆腐妈妈"
+        },
+        "v.lz15uu.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2899,
+          "sample": "https://v.lz15uu.com/20251103/6662_b8f48389/index.m3u8",
+          "kind": "m3u8",
+          "vod": "科学怪人对地底怪兽[电影解说]"
+        },
+        "v.lzcdn23.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3098,
+          "sample": "https://v.lzcdn23.com/20240625/1229_07ac2ef9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.lzcdn24.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 20220,
+          "sample": "https://v.lzcdn24.com/20250831/44971_65f3982f/index.m3u8",
+          "kind": "m3u8",
+          "vod": "她带着火回来"
+        },
+        "v.lzcdn25.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2460,
+          "sample": "https://v.lzcdn25.com/20251027/8937_9ddb9121/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "v.lzcdn26.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4636,
+          "sample": "https://v.lzcdn26.com/20250110/5285_887820a7/index.m3u8",
+          "kind": "m3u8",
+          "vod": "一个近乎正常的家庭"
+        },
+        "v.lzcdn27.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3384,
+          "sample": "https://v.lzcdn27.com/20260831/16289_b84f48a0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "豆腐妈妈"
+        },
+        "v.lzcdn28.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 5136,
+          "sample": "https://v.lzcdn28.com/20251124/5004_f4698543/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.lzcdn31.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2136,
+          "sample": "https://v.lzcdn31.com/20260316/3377_ae440b99/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "v.lzcdn32.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 83,
+          "sample": "https://v.lzcdn32.com/20260119/101_25ba81e6/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "v.lzcdn34.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 974,
+          "sample": "https://v.lzcdn34.com/20260819/2541_7678a9bb/index.m3u8",
+          "kind": "m3u8",
+          "vod": "农女带着家人致富第八季"
+        },
+        "v.lzfile26.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 52504,
+          "sample": "https://v.lzfile26.com/20251024/205373_a0ec6f6c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "下山即巅峰：七个师姐超护短"
+        },
+        "v1.cdnlz1.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 422,
+          "sample": "https://v1.cdnlz1.com/20231122/24045_1a5a8b5c/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "v1.lzcdn32.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 15,
+          "sample": "https://v1.lzcdn32.com/20260123/275_94e3e716/index.m3u8",
+          "kind": "m3u8",
+          "vod": "非常检控观国语"
+        },
+        "vip.lz-cdn11.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4975,
+          "sample": "https://vip.lz-cdn11.com/20220620/8822_39fde91d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "vip.lz-cdn12.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3021,
+          "sample": "https://vip.lz-cdn12.com/20220829/1757_2ad7dfb8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "vip.lz-cdn13.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3308,
+          "sample": "https://vip.lz-cdn13.com/20230731/15682_598f5e31/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "vip.lz-cdn14.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 5494,
+          "sample": "https://vip.lz-cdn14.com/20230821/28465_0c86a8bd/index.m3u8",
+          "kind": "m3u8",
+          "vod": "炼气十万年"
+        },
+        "vip.lz-cdn16.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4864,
+          "sample": "https://vip.lz-cdn16.com/20230811/34810_830da6e1/index.m3u8",
+          "kind": "m3u8",
+          "vod": "冰果"
+        },
+        "vip.lz-cdn17.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3921,
+          "sample": "https://vip.lz-cdn17.com/20230809/25005_b0484e9e/index.m3u8",
+          "kind": "m3u8",
+          "vod": "Yes! 光之美少女5"
+        },
+        "vip.lz-cdn2.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 60,
+          "sample": "https://vip.lz-cdn2.com/20220621/13118_1e8149f2/index.m3u8",
+          "kind": "m3u8",
+          "vod": "鹤唳华亭"
+        },
+        "vip.lz-cdn3.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4088,
+          "sample": "https://vip.lz-cdn3.com/20230508/18832_d87369d9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "vip.lz-cdn4.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4210,
+          "sample": "https://vip.lz-cdn4.com/20220417/7203_b52b3367/index.m3u8",
+          "kind": "m3u8",
+          "vod": "三个侦探 第二季"
+        },
+        "vip.lz-cdn5.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://vip.lz-cdn5.com/20230416/50067_546e0702/index.m3u8",
+          "kind": "m3u8",
+          "vod": "种地吧"
+        },
+        "vip.lz-cdn9.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3842,
+          "sample": "https://vip.lz-cdn9.com/20221224/16470_844f91e4/index.m3u8",
+          "kind": "m3u8",
+          "vod": "炼气十万年"
+        },
+        "vip.lz15uu.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 219,
+          "sample": "https://vip.lz15uu.com/20231122/1110_5abe2dfb/index.m3u8",
+          "kind": "m3u8",
+          "vod": "善良的嫂子：火热的诱惑"
+        },
+        "vip.lzcdn10.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3490,
+          "sample": "https://vip.lzcdn10.com/20221005/2667_c60fcd0b/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "vip.lzcdn2.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 4823,
+          "sample": "https://vip.lzcdn2.com/20220606/8925_87bc28c9/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "vip1.lz-cdn.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 6038,
+          "sample": "https://vip1.lz-cdn.com/20220717/24640_dfa230d4/index.m3u8",
+          "kind": "m3u8",
+          "vod": "名侦探柯南：第十四个目标"
+        },
+        "vip1.lz-cdn1.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3868,
+          "sample": "https://vip1.lz-cdn1.com/20220924/16784_9a95274a/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "vip1.lz-cdn5.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 9496,
+          "sample": "https://vip1.lz-cdn5.com/20230418/50141_4ed830f8/index.m3u8",
+          "kind": "m3u8",
+          "vod": "命运好好玩"
+        },
+        "vip1.lz-cdn6.com": {
+          "first_seen": "2026-08-31 13:39:21",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 7619,
+          "sample": "https://vip1.lz-cdn6.com/20221215/36317_4bdf3b1d/index.m3u8",
+          "kind": "m3u8",
+          "vod": "神兵小将第一部"
+        },
+        "vip1.lz-cdn7.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 2926,
+          "sample": "https://vip1.lz-cdn7.com/20220403/8_98c24fc0/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱·回家之开心速递"
+        },
+        "vip1.lz-cdn8.com": {
+          "first_seen": "2026-08-31 13:41:57",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 5395,
+          "sample": "https://vip1.lz-cdn8.com/20220821/22454_7d8e7b14/index.m3u8",
+          "kind": "m3u8",
+          "vod": "少年杨家将"
+        },
+        "www.aiyoutv.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.aiyoutv.com",
+          "kind": "page",
+          "vod": "厨艺大师(美版) 第五季"
+        },
+        "www.beijingtaxithefilm.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.beijingtaxithefilm.com",
+          "kind": "page",
+          "vod": "北京出租车"
+        },
+        "www.berlinale.de": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://www.berlinale.de/en/2023/programme/202314306.html",
+          "kind": "page",
+          "vod": "阿莫雷的最后一夜[电影解说]"
+        },
+        "www.bilibili.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 3,
+          "sample": "https://www.bilibili.com/bangumi/media/md24377851",
+          "kind": "page",
+          "vod": "太阳与蝴蝶"
+        },
+        "www.giddens.tw": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.giddens.tw/blog/post/38756811-%E3%80%8C%E5%8D%81%E4%BA%8C%E5%A4%9C%E3%80%8D%E5%BD%B1%E7%89%87%E6%95%91%E6%8F%B4%E8%A8%88%E7%95%AB%EF%BC%8C%E5%B8%8C%E6%9C%9B%E4%BD%A0%E6%88%90%E7%82%BA%E6%88%91%E5%80%91%E7%9A%84",
+          "kind": "page",
+          "vod": "十二夜"
+        },
+        "www.imdb.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.imdb.com/title/tt0065009",
+          "kind": "page",
+          "vod": "女煞星续集[电影解说]"
+        },
+        "www.input2002.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.input2002.com/en/film/24418.html",
+          "kind": "page",
+          "vod": "直立行走"
+        },
+        "www.itv.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.itv.com/presscentre/pressreleases/programmepressreleases/itvcommissionseternallaw/default.html",
+          "kind": "page",
+          "vod": "永恒之法"
+        },
+        "www.kan84.net": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.kan84.net/bdhd/btTintorera1977.html",
+          "kind": "page",
+          "vod": "食人猛虎鲨[电影解说]"
+        },
+        "www.locarnofestival.ch": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://www.locarnofestival.ch/festival/program/film.html?fid=e3a878c3-ae17-4570-9736-2c37b917128a",
+          "kind": "page",
+          "vod": "家庭合影"
+        },
+        "www.mitternachtskino.de": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.mitternachtskino.de/spiritsoftheair.htm",
+          "kind": "page",
+          "vod": "空气之魂，云之精灵"
+        },
+        "www.nbc.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "http://www.nbc.com/Coupling/",
+          "kind": "page",
+          "vod": "冤家成双对 第三季"
+        },
+        "www.springfieldspringfield.co.uk": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://www.springfieldspringfield.co.uk/episode_scripts.php?tv-show=the-magicians-2016season=3",
+          "kind": "page",
+          "vod": "魔法师第三季"
+        },
+        "www.taijuwang.com": {
+          "first_seen": "2026-09-01 23:30:05",
+          "last_seen": "2026-09-01 23:30:05",
+          "hits": 1,
+          "sample": "https://www.taijuwang.com/taiju/11664.html",
+          "kind": "page",
+          "vod": "影子恋人[电影解说]"
+        },
+        "www.tvkuu.com": {
+          "first_seen": "2026-08-31 19:26:31",
+          "last_seen": "2026-08-31 19:26:31",
+          "hits": 1,
+          "sample": "http://www.tvkuu.com/text/?6334.htm",
+          "kind": "page",
+          "vod": "可疑的三兄弟"
+        }
+      }
+    },
+    "https://www.mdzyapi.com/api.php/provide/vod/?ac=list": {
+      "last_scan": "2026-09-01 23:46:10",
+      "scans": 1,
+      "hosts": {}
+    },
+    "https://www.mdzyapi.com/api.php/provide/vod/?ac=videolist": {
+      "last_scan": "2026-09-01 23:47:50",
+      "scans": 4,
+      "hosts": {
+        "play.modujx10.com": {
+          "first_seen": "2026-08-31 13:40:20",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 6941,
+          "sample": "https://play.modujx10.com/20230701/HPb5sxOV/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "play.modujx11.com": {
+          "first_seen": "2026-08-31 13:40:20",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 121496,
+          "sample": "https://play.modujx11.com/20260123/iWJnC0uO/index.m3u8",
+          "kind": "m3u8",
+          "vod": "深夜怪谈会6"
+        },
+        "play.modujx12.com": {
+          "first_seen": "2026-08-31 19:38:16",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 5408,
+          "sample": "https://play.modujx12.com/20240630/bpIjuv28/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "play.modujx13.com": {
+          "first_seen": "2026-08-31 19:38:16",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 6158,
+          "sample": "https://play.modujx13.com/20240715/4SK0PNbG/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "play.modujx14.com": {
+          "first_seen": "2026-08-31 19:38:16",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 4991,
+          "sample": "https://play.modujx14.com/20240812/cLFzyWdr/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "play.modujx15.com": {
+          "first_seen": "2026-08-31 13:40:20",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 1660,
+          "sample": "https://play.modujx15.com/20240826/jkhyoShY/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "play.modujx16.com": {
+          "first_seen": "2026-08-31 13:40:20",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 15275,
+          "sample": "https://play.modujx16.com/20240828/ORexx13x/index.m3u8",
+          "kind": "m3u8",
+          "vod": "遮天"
+        },
+        "play.modujx17.com": {
+          "first_seen": "2026-08-31 13:40:20",
+          "last_seen": "2026-09-01 23:47:50",
+          "hits": 12755,
+          "sample": "https://play.modujx17.com/20260826/lqttn7bb/index.m3u8",
+          "kind": "m3u8",
+          "vod": "奇招百出的维多利亚"
+        }
+      }
+    },
+    "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/list": {
+      "last_scan": "2026-09-02 00:08:10",
+      "scans": 2,
+      "hosts": {
+        "pptv.1080tg.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 18,
+          "sample": "https://pptv.1080tg.com/202310/28/Uf9shqvg1b3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "红毯先生预告片"
+        },
+        "top.1080pzy.co": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 6,
+          "sample": "https://top.1080pzy.co/202402/06/PuqWAHevDh3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "2月6日 23-24赛季NBA常规赛 勇士VS篮网"
+        },
+        "top.nfm3u8.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:05:13",
+          "hits": 1,
+          "sample": "https://top.nfm3u8.com/202403/08/3TxJdebUhC3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "3月8日 23-24赛季NBA常规赛 热火VS独行侠"
+        },
+        "top.youkuplaya.com": {
+          "first_seen": "2026-09-02 00:08:10",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 2,
+          "sample": "https://top.youkuplaya.com/202403/13/Lf3puRzRZu3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "创想季"
+        },
+        "v1.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 15770,
+          "sample": "https://v1.qqqrst.com/yyv1/202604/13/vcjYjsvjKs19/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "无自觉圣女今天也无意识地释放力量"
+        },
+        "v10.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 4521,
+          "sample": "https://v10.qqqrst.com/yyv10/202406/27/MnqPmfQi0915/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v11.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 7465,
+          "sample": "https://v11.qqqrst.com/yyv11/202406/18/W52S5vENBL3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v11.tlkqc.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:05:13",
+          "hits": 1,
+          "sample": "https://v11.tlkqc.com/wjv11/202405/03/UWyyjP6ATf83/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "打天下2"
+        },
+        "v12.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 5500,
+          "sample": "https://v12.qqqrst.com/yyv12/202406/16/YHETCh7RdT8/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v13.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 18503,
+          "sample": "https://v13.qqqrst.com/yyv13/202508/28/BSqzxdczgV21/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我的偶像总裁"
+        },
+        "v14.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 18521,
+          "sample": "https://v14.qqqrst.com/yyv14/202512/06/t121vXWAGc27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "我的偶像总裁"
+        },
+        "v2.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 32497,
+          "sample": "https://v2.qqqrst.com/yyv2/202409/18/9BKF6gnVbC10/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v3.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 25265,
+          "sample": "https://v3.qqqrst.com/yyv3/202410/27/fYqCzuEZcv24/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v3.qqqrst.comyyv3": {
+          "first_seen": "2026-09-02 00:08:10",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 1,
+          "sample": "https://v3.qqqrst.comyyv3/202606/30/RbHDuqVHxr27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "你好星期六"
+        },
+        "v4.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 44828,
+          "sample": "https://v4.qqqrst.com/yyv4/202410/22/CVfPQNKRHB21/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v5.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 30037,
+          "sample": "https://v5.qqqrst.com/yyv5/202406/20/LiYPr6ZWgd7/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v5.tlkqc.com": {
+          "first_seen": "2026-09-02 00:08:10",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 1,
+          "sample": "https://v5.tlkqc.com/wjv5/202404/18/PQc60mVcZX77/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "笑动剧场"
+        },
+        "v6.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 58468,
+          "sample": "https://v6.qqqrst.com/yyv6/202406/16/xFk80KzTQ212/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "Crossroad～救命救急的约定～"
+        },
+        "v6.tlkqc.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:05:13",
+          "hits": 1,
+          "sample": "https://v6.tlkqc.com/wjv6/202404/26/CF44ZFKAN278/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "害虫"
+        },
+        "v7.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 36923,
+          "sample": "https://v7.qqqrst.com/yyv7/202404/13/0AQtq9RKfm79/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "男生女生向前冲"
+        },
+        "v8.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 15308,
+          "sample": "https://v8.qqqrst.com/yyv8/202406/22/cDQhmJAwEu14/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v9.qqqrst.com": {
+          "first_seen": "2026-09-02 00:05:13",
+          "last_seen": "2026-09-02 00:08:10",
+          "hits": 25050,
+          "sample": "https://v9.qqqrst.com/yyv9/202409/05/d1JSTrg3p318/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        }
+      }
+    },
+    "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/": {
+      "last_scan": "2026-09-01 23:59:30",
+      "scans": 2,
+      "hosts": {
+        "epaper.ctfa2.org.tw": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "http://epaper.ctfa2.org.tw/epaper91231we/2yeGO.htm",
+          "kind": "page",
+          "vod": "跑道终点"
+        },
+        "festival.sundance.org": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 2,
+          "sample": "https://festival.sundance.org/program/film/638a1707d406b207fbf2c90e",
+          "kind": "page",
+          "vod": "侥幸逃生的司机"
+        },
+        "pptv.1080tg.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 9,
+          "sample": "https://pptv.1080tg.com/202310/28/Uf9shqvg1b3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "红毯先生预告片"
+        },
+        "top.1080pzy.co": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://top.1080pzy.co/202402/06/PuqWAHevDh3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "2月6日 23-24赛季NBA常规赛 勇士VS篮网"
+        },
+        "top.nfm3u8.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://top.nfm3u8.com/202403/08/3TxJdebUhC3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "3月8日 23-24赛季NBA常规赛 热火VS独行侠"
+        },
+        "tw.youtube.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "http://tw.youtube.com/watch?v=ldokDlfMQZ8",
+          "kind": "page",
+          "vod": "两相好"
+        },
+        "v1.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 7836,
+          "sample": "https://v1.qqqrst.com/yyv1/202606/28/WREC9m4NwL27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v10.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 2198,
+          "sample": "https://v10.qqqrst.com/yyv10/202407/18/DpHzHwfRWv15/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v11.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 3762,
+          "sample": "https://v11.qqqrst.com/yyv11/202406/21/cwh4ZBS0LP3/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v11.tlkqc.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://v11.tlkqc.com/wjv11/202405/03/UWyyjP6ATf83/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "打天下2"
+        },
+        "v12.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 2679,
+          "sample": "https://v12.qqqrst.com/yyv12/202405/23/4TGfJxfKDK8/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v13.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 9501,
+          "sample": "https://v13.qqqrst.com/yyv13/202608/31/seV8HyVdkq27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v14.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 9478,
+          "sample": "https://v14.qqqrst.com/yyv14/202608/31/nqJMThNmCC27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v14.yuglf.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 2,
+          "sample": "https://v14.yuglf.com/202601/03/xmivdVErev22/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "爱悔于云霄"
+        },
+        "v2.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 17530,
+          "sample": "https://v2.qqqrst.com/yyv2/202606/27/6nzj5W8mJm27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v3.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 12786,
+          "sample": "https://v3.qqqrst.com/yyv3/202606/14/CHTJWgiruG27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v4.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 22768,
+          "sample": "https://v4.qqqrst.com/yyv4/202606/27/JmgXcZQFe727/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v5.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 15354,
+          "sample": "https://v5.qqqrst.com/yyv5/202606/27/2AHvyu08Sv27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v6.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 31979,
+          "sample": "https://v6.qqqrst.com/yyv6/202606/27/VVzrQ4WF8r27/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v6.tlkqc.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://v6.tlkqc.com/wjv6/202404/26/CF44ZFKAN278/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "害虫"
+        },
+        "v7.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 19022,
+          "sample": "https://v7.qqqrst.com/yyv7/202404/14/W7jPyh2UmM79/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "男生女生向前冲"
+        },
+        "v8.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 8107,
+          "sample": "https://v8.qqqrst.com/yyv8/202407/11/Ub5d858LAe14/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "v9.qqqrst.com": {
+          "first_seen": "2026-08-31 19:23:39",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 12193,
+          "sample": "https://v9.qqqrst.com/yyv9/202408/08/Fy61JywWJc18/video/index.m3u8",
+          "kind": "m3u8",
+          "vod": "欢乐集结号"
+        },
+        "www.acthow.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "http://www.acthow.com/soren/TMovie/detail.jsp?id=30701",
+          "kind": "page",
+          "vod": "爱情全盒粤语"
+        },
+        "www.baike.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 3,
+          "sample": "https://www.baike.com/wikiid/306733485542641236?from=wiki_content\u0026prd=innerlink",
+          "kind": "page",
+          "vod": "性狩人"
+        },
+        "www.berlinale.de": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://www.berlinale.de/en/2023/programme/202301402.html",
+          "kind": "page",
+          "vod": "自传小册"
+        },
+        "www.bilibili.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://www.bilibili.com/video/BV12V411H7qj",
+          "kind": "page",
+          "vod": "剧场版Tropical-Rouge!光之美少女雪之公主与奇迹指环！"
+        },
+        "www.btbtt.co": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "http://www.btbtt.co/thread-index-fid-1183-tid-4348933.htm",
+          "kind": "page",
+          "vod": "英湘"
+        },
+        "www.freevd.cc": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 7,
+          "sample": "https://www.freevd.cc/vodsearch/-------------2007/",
+          "kind": "page",
+          "vod": "荡女豪放之女仆部屋狂爱同级生"
+        },
+        "www.gaoqingw.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://www.gaoqingw.com/tag/%e8%88%92%e6%b7%87",
+          "kind": "page",
+          "vod": "玉蒲团2之玉女心经"
+        },
+        "www.iqiyi.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "https://www.iqiyi.com/v_1jxlec4el08.html",
+          "kind": "page",
+          "vod": "黄飞鸿之铁血十三姨"
+        },
+        "www.mtime.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "http://www.mtime.com/movie/71221/",
+          "kind": "page",
+          "vod": "爱情全盒粤语"
+        },
+        "www.yingshi4.com": {
+          "first_seen": "2026-09-01 23:59:30",
+          "last_seen": "2026-09-01 23:59:30",
+          "hits": 1,
+          "sample": "http://www.yingshi4.com/",
+          "kind": "page",
+          "vod": "深黑峡谷"
+        }
+      }
+    }
+  }
+}
